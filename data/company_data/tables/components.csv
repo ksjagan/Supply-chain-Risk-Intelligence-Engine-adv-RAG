@@ -1,0 +1,401 @@
+component_id,component_name,category,criticality,lifecycle_stage
+CMP-0001,Printed Circuit Board Module 001,printed circuit board,high,growth
+CMP-0002,Power Electronics Module 002,power electronics,high,new
+CMP-0003,Connectivity Module Module 003,connectivity module,high,mature
+CMP-0004,Battery Module 004,battery,high,growth
+CMP-0005,Semiconductor Module 005,semiconductor,standard,mature
+CMP-0006,Connectivity Module Module 006,connectivity module,standard,new
+CMP-0007,Semiconductor Module 007,semiconductor,standard,end-of-life
+CMP-0008,Power Electronics Module 008,power electronics,standard,end-of-life
+CMP-0009,Connectivity Module Module 009,connectivity module,critical,new
+CMP-0010,Mechanical Housing Module 010,mechanical housing,standard,new
+CMP-0011,Printed Circuit Board Module 011,printed circuit board,high,mature
+CMP-0012,Power Electronics Module 012,power electronics,standard,mature
+CMP-0013,Connectivity Module Module 013,connectivity module,high,end-of-life
+CMP-0014,Battery Module 014,battery,standard,new
+CMP-0015,Display Module Module 015,display module,high,growth
+CMP-0016,Power Electronics Module 016,power electronics,high,end-of-life
+CMP-0017,Power Electronics Module 017,power electronics,high,new
+CMP-0018,Mechanical Housing Module 018,mechanical housing,high,mature
+CMP-0019,Mechanical Housing Module 019,mechanical housing,standard,end-of-life
+CMP-0020,Battery Module 020,battery,critical,new
+CMP-0021,Battery Module 021,battery,high,mature
+CMP-0022,Printed Circuit Board Module 022,printed circuit board,high,mature
+CMP-0023,Battery Module 023,battery,high,end-of-life
+CMP-0024,Semiconductor Module 024,semiconductor,standard,mature
+CMP-0025,Mechanical Housing Module 025,mechanical housing,critical,growth
+CMP-0026,Printed Circuit Board Module 026,printed circuit board,standard,growth
+CMP-0027,Battery Module 027,battery,high,mature
+CMP-0028,Battery Module 028,battery,standard,growth
+CMP-0029,Power Electronics Module 029,power electronics,standard,new
+CMP-0030,Sensor Module 030,sensor,critical,mature
+CMP-0031,Sensor Module 031,sensor,standard,mature
+CMP-0032,Semiconductor Module 032,semiconductor,critical,growth
+CMP-0033,Power Electronics Module 033,power electronics,critical,new
+CMP-0034,Battery Module 034,battery,standard,growth
+CMP-0035,Power Electronics Module 035,power electronics,high,mature
+CMP-0036,Printed Circuit Board Module 036,printed circuit board,high,mature
+CMP-0037,Battery Module 037,battery,standard,growth
+CMP-0038,Printed Circuit Board Module 038,printed circuit board,standard,new
+CMP-0039,Battery Module 039,battery,high,end-of-life
+CMP-0040,Connectivity Module Module 040,connectivity module,standard,end-of-life
+CMP-0041,Sensor Module 041,sensor,critical,new
+CMP-0042,Mechanical Housing Module 042,mechanical housing,high,mature
+CMP-0043,Connectivity Module Module 043,connectivity module,high,mature
+CMP-0044,Semiconductor Module 044,semiconductor,critical,new
+CMP-0045,Semiconductor Module 045,semiconductor,critical,growth
+CMP-0046,Printed Circuit Board Module 046,printed circuit board,standard,mature
+CMP-0047,Mechanical Housing Module 047,mechanical housing,critical,end-of-life
+CMP-0048,Power Electronics Module 048,power electronics,critical,end-of-life
+CMP-0049,Display Module Module 049,display module,high,mature
+CMP-0050,Battery Module 050,battery,high,new
+CMP-0051,Power Electronics Module 051,power electronics,critical,new
+CMP-0052,Mechanical Housing Module 052,mechanical housing,high,end-of-life
+CMP-0053,Power Electronics Module 053,power electronics,high,end-of-life
+CMP-0054,Semiconductor Module 054,semiconductor,standard,growth
+CMP-0055,Connectivity Module Module 055,connectivity module,standard,mature
+CMP-0056,Battery Module 056,battery,high,new
+CMP-0057,Display Module Module 057,display module,high,end-of-life
+CMP-0058,Battery Module 058,battery,high,mature
+CMP-0059,Mechanical Housing Module 059,mechanical housing,critical,growth
+CMP-0060,Battery Module 060,battery,high,new
+CMP-0061,Display Module Module 061,display module,standard,mature
+CMP-0062,Mechanical Housing Module 062,mechanical housing,standard,growth
+CMP-0063,Display Module Module 063,display module,critical,mature
+CMP-0064,Display Module Module 064,display module,critical,growth
+CMP-0065,Battery Module 065,battery,critical,end-of-life
+CMP-0066,Connectivity Module Module 066,connectivity module,standard,end-of-life
+CMP-0067,Mechanical Housing Module 067,mechanical housing,standard,mature
+CMP-0068,Printed Circuit Board Module 068,printed circuit board,high,end-of-life
+CMP-0069,Connectivity Module Module 069,connectivity module,standard,mature
+CMP-0070,Semiconductor Module 070,semiconductor,high,new
+CMP-0071,Sensor Module 071,sensor,high,new
+CMP-0072,Semiconductor Module 072,semiconductor,high,mature
+CMP-0073,Battery Module 073,battery,standard,new
+CMP-0074,Power Electronics Module 074,power electronics,high,new
+CMP-0075,Connectivity Module Module 075,connectivity module,standard,growth
+CMP-0076,Mechanical Housing Module 076,mechanical housing,standard,growth
+CMP-0077,Semiconductor Module 077,semiconductor,high,mature
+CMP-0078,Battery Module 078,battery,high,growth
+CMP-0079,Semiconductor Module 079,semiconductor,critical,end-of-life
+CMP-0080,Connectivity Module Module 080,connectivity module,high,growth
+CMP-0081,Mechanical Housing Module 081,mechanical housing,high,mature
+CMP-0082,Power Electronics Module 082,power electronics,high,mature
+CMP-0083,Semiconductor Module 083,semiconductor,standard,mature
+CMP-0084,Battery Module 084,battery,high,end-of-life
+CMP-0085,Sensor Module 085,sensor,high,growth
+CMP-0086,Mechanical Housing Module 086,mechanical housing,critical,growth
+CMP-0087,Mechanical Housing Module 087,mechanical housing,high,end-of-life
+CMP-0088,Printed Circuit Board Module 088,printed circuit board,high,new
+CMP-0089,Sensor Module 089,sensor,high,mature
+CMP-0090,Printed Circuit Board Module 090,printed circuit board,standard,new
+CMP-0091,Power Electronics Module 091,power electronics,high,new
+CMP-0092,Mechanical Housing Module 092,mechanical housing,high,growth
+CMP-0093,Mechanical Housing Module 093,mechanical housing,standard,end-of-life
+CMP-0094,Display Module Module 094,display module,critical,growth
+CMP-0095,Printed Circuit Board Module 095,printed circuit board,critical,new
+CMP-0096,Semiconductor Module 096,semiconductor,standard,growth
+CMP-0097,Power Electronics Module 097,power electronics,critical,growth
+CMP-0098,Printed Circuit Board Module 098,printed circuit board,standard,new
+CMP-0099,Power Electronics Module 099,power electronics,high,growth
+CMP-0100,Connectivity Module Module 100,connectivity module,standard,end-of-life
+CMP-0101,Display Module Module 101,display module,high,mature
+CMP-0102,Connectivity Module Module 102,connectivity module,standard,growth
+CMP-0103,Mechanical Housing Module 103,mechanical housing,standard,end-of-life
+CMP-0104,Connectivity Module Module 104,connectivity module,standard,end-of-life
+CMP-0105,Power Electronics Module 105,power electronics,standard,growth
+CMP-0106,Printed Circuit Board Module 106,printed circuit board,standard,new
+CMP-0107,Connectivity Module Module 107,connectivity module,standard,new
+CMP-0108,Battery Module 108,battery,high,growth
+CMP-0109,Sensor Module 109,sensor,high,growth
+CMP-0110,Power Electronics Module 110,power electronics,critical,growth
+CMP-0111,Connectivity Module Module 111,connectivity module,standard,new
+CMP-0112,Power Electronics Module 112,power electronics,critical,mature
+CMP-0113,Display Module Module 113,display module,high,new
+CMP-0114,Mechanical Housing Module 114,mechanical housing,critical,mature
+CMP-0115,Battery Module 115,battery,standard,mature
+CMP-0116,Printed Circuit Board Module 116,printed circuit board,critical,mature
+CMP-0117,Connectivity Module Module 117,connectivity module,standard,growth
+CMP-0118,Connectivity Module Module 118,connectivity module,high,new
+CMP-0119,Battery Module 119,battery,critical,growth
+CMP-0120,Printed Circuit Board Module 120,printed circuit board,high,end-of-life
+CMP-0121,Battery Module 121,battery,standard,growth
+CMP-0122,Sensor Module 122,sensor,critical,growth
+CMP-0123,Power Electronics Module 123,power electronics,standard,end-of-life
+CMP-0124,Battery Module 124,battery,critical,end-of-life
+CMP-0125,Semiconductor Module 125,semiconductor,standard,growth
+CMP-0126,Printed Circuit Board Module 126,printed circuit board,high,new
+CMP-0127,Mechanical Housing Module 127,mechanical housing,critical,end-of-life
+CMP-0128,Printed Circuit Board Module 128,printed circuit board,standard,new
+CMP-0129,Mechanical Housing Module 129,mechanical housing,critical,new
+CMP-0130,Power Electronics Module 130,power electronics,standard,new
+CMP-0131,Power Electronics Module 131,power electronics,standard,mature
+CMP-0132,Semiconductor Module 132,semiconductor,high,new
+CMP-0133,Mechanical Housing Module 133,mechanical housing,critical,new
+CMP-0134,Mechanical Housing Module 134,mechanical housing,critical,mature
+CMP-0135,Mechanical Housing Module 135,mechanical housing,standard,growth
+CMP-0136,Connectivity Module Module 136,connectivity module,standard,end-of-life
+CMP-0137,Printed Circuit Board Module 137,printed circuit board,standard,new
+CMP-0138,Connectivity Module Module 138,connectivity module,critical,growth
+CMP-0139,Semiconductor Module 139,semiconductor,standard,new
+CMP-0140,Mechanical Housing Module 140,mechanical housing,standard,end-of-life
+CMP-0141,Connectivity Module Module 141,connectivity module,high,growth
+CMP-0142,Sensor Module 142,sensor,high,new
+CMP-0143,Mechanical Housing Module 143,mechanical housing,high,mature
+CMP-0144,Power Electronics Module 144,power electronics,standard,end-of-life
+CMP-0145,Power Electronics Module 145,power electronics,high,growth
+CMP-0146,Connectivity Module Module 146,connectivity module,standard,mature
+CMP-0147,Sensor Module 147,sensor,standard,end-of-life
+CMP-0148,Battery Module 148,battery,high,growth
+CMP-0149,Sensor Module 149,sensor,high,new
+CMP-0150,Mechanical Housing Module 150,mechanical housing,standard,mature
+CMP-0151,Connectivity Module Module 151,connectivity module,standard,end-of-life
+CMP-0152,Printed Circuit Board Module 152,printed circuit board,standard,mature
+CMP-0153,Connectivity Module Module 153,connectivity module,critical,mature
+CMP-0154,Power Electronics Module 154,power electronics,high,new
+CMP-0155,Battery Module 155,battery,standard,end-of-life
+CMP-0156,Mechanical Housing Module 156,mechanical housing,high,growth
+CMP-0157,Semiconductor Module 157,semiconductor,critical,end-of-life
+CMP-0158,Semiconductor Module 158,semiconductor,critical,growth
+CMP-0159,Mechanical Housing Module 159,mechanical housing,high,new
+CMP-0160,Printed Circuit Board Module 160,printed circuit board,standard,mature
+CMP-0161,Mechanical Housing Module 161,mechanical housing,high,new
+CMP-0162,Printed Circuit Board Module 162,printed circuit board,high,end-of-life
+CMP-0163,Mechanical Housing Module 163,mechanical housing,standard,growth
+CMP-0164,Battery Module 164,battery,critical,growth
+CMP-0165,Connectivity Module Module 165,connectivity module,high,new
+CMP-0166,Sensor Module 166,sensor,standard,end-of-life
+CMP-0167,Display Module Module 167,display module,standard,mature
+CMP-0168,Connectivity Module Module 168,connectivity module,critical,growth
+CMP-0169,Battery Module 169,battery,high,end-of-life
+CMP-0170,Battery Module 170,battery,standard,mature
+CMP-0171,Mechanical Housing Module 171,mechanical housing,standard,mature
+CMP-0172,Sensor Module 172,sensor,standard,growth
+CMP-0173,Mechanical Housing Module 173,mechanical housing,high,new
+CMP-0174,Display Module Module 174,display module,standard,growth
+CMP-0175,Connectivity Module Module 175,connectivity module,critical,mature
+CMP-0176,Connectivity Module Module 176,connectivity module,standard,growth
+CMP-0177,Battery Module 177,battery,critical,end-of-life
+CMP-0178,Connectivity Module Module 178,connectivity module,high,end-of-life
+CMP-0179,Battery Module 179,battery,critical,mature
+CMP-0180,Battery Module 180,battery,high,mature
+CMP-0181,Printed Circuit Board Module 181,printed circuit board,standard,growth
+CMP-0182,Printed Circuit Board Module 182,printed circuit board,high,new
+CMP-0183,Battery Module 183,battery,high,mature
+CMP-0184,Printed Circuit Board Module 184,printed circuit board,critical,growth
+CMP-0185,Mechanical Housing Module 185,mechanical housing,standard,mature
+CMP-0186,Battery Module 186,battery,high,mature
+CMP-0187,Printed Circuit Board Module 187,printed circuit board,standard,new
+CMP-0188,Printed Circuit Board Module 188,printed circuit board,high,growth
+CMP-0189,Printed Circuit Board Module 189,printed circuit board,standard,mature
+CMP-0190,Semiconductor Module 190,semiconductor,standard,new
+CMP-0191,Battery Module 191,battery,critical,mature
+CMP-0192,Display Module Module 192,display module,standard,end-of-life
+CMP-0193,Semiconductor Module 193,semiconductor,high,mature
+CMP-0194,Sensor Module 194,sensor,high,end-of-life
+CMP-0195,Sensor Module 195,sensor,high,new
+CMP-0196,Printed Circuit Board Module 196,printed circuit board,high,end-of-life
+CMP-0197,Connectivity Module Module 197,connectivity module,critical,growth
+CMP-0198,Mechanical Housing Module 198,mechanical housing,standard,mature
+CMP-0199,Mechanical Housing Module 199,mechanical housing,standard,growth
+CMP-0200,Mechanical Housing Module 200,mechanical housing,high,new
+CMP-0201,Mechanical Housing Module 201,mechanical housing,critical,new
+CMP-0202,Sensor Module 202,sensor,high,growth
+CMP-0203,Battery Module 203,battery,critical,end-of-life
+CMP-0204,Power Electronics Module 204,power electronics,critical,growth
+CMP-0205,Mechanical Housing Module 205,mechanical housing,standard,mature
+CMP-0206,Display Module Module 206,display module,standard,end-of-life
+CMP-0207,Connectivity Module Module 207,connectivity module,high,mature
+CMP-0208,Connectivity Module Module 208,connectivity module,critical,end-of-life
+CMP-0209,Connectivity Module Module 209,connectivity module,standard,growth
+CMP-0210,Mechanical Housing Module 210,mechanical housing,critical,mature
+CMP-0211,Connectivity Module Module 211,connectivity module,high,end-of-life
+CMP-0212,Sensor Module 212,sensor,high,new
+CMP-0213,Power Electronics Module 213,power electronics,critical,mature
+CMP-0214,Mechanical Housing Module 214,mechanical housing,standard,mature
+CMP-0215,Semiconductor Module 215,semiconductor,high,growth
+CMP-0216,Mechanical Housing Module 216,mechanical housing,high,new
+CMP-0217,Power Electronics Module 217,power electronics,high,mature
+CMP-0218,Battery Module 218,battery,critical,new
+CMP-0219,Power Electronics Module 219,power electronics,high,mature
+CMP-0220,Mechanical Housing Module 220,mechanical housing,standard,growth
+CMP-0221,Power Electronics Module 221,power electronics,high,new
+CMP-0222,Semiconductor Module 222,semiconductor,critical,mature
+CMP-0223,Connectivity Module Module 223,connectivity module,high,growth
+CMP-0224,Printed Circuit Board Module 224,printed circuit board,high,mature
+CMP-0225,Printed Circuit Board Module 225,printed circuit board,high,mature
+CMP-0226,Mechanical Housing Module 226,mechanical housing,high,end-of-life
+CMP-0227,Sensor Module 227,sensor,high,new
+CMP-0228,Mechanical Housing Module 228,mechanical housing,high,new
+CMP-0229,Power Electronics Module 229,power electronics,high,new
+CMP-0230,Connectivity Module Module 230,connectivity module,high,growth
+CMP-0231,Semiconductor Module 231,semiconductor,high,growth
+CMP-0232,Power Electronics Module 232,power electronics,critical,growth
+CMP-0233,Semiconductor Module 233,semiconductor,high,new
+CMP-0234,Display Module Module 234,display module,critical,mature
+CMP-0235,Power Electronics Module 235,power electronics,critical,growth
+CMP-0236,Power Electronics Module 236,power electronics,high,end-of-life
+CMP-0237,Semiconductor Module 237,semiconductor,standard,growth
+CMP-0238,Mechanical Housing Module 238,mechanical housing,standard,end-of-life
+CMP-0239,Power Electronics Module 239,power electronics,high,growth
+CMP-0240,Connectivity Module Module 240,connectivity module,standard,mature
+CMP-0241,Mechanical Housing Module 241,mechanical housing,standard,mature
+CMP-0242,Connectivity Module Module 242,connectivity module,critical,growth
+CMP-0243,Sensor Module 243,sensor,high,growth
+CMP-0244,Sensor Module 244,sensor,standard,growth
+CMP-0245,Connectivity Module Module 245,connectivity module,high,mature
+CMP-0246,Sensor Module 246,sensor,high,end-of-life
+CMP-0247,Power Electronics Module 247,power electronics,standard,growth
+CMP-0248,Sensor Module 248,sensor,critical,new
+CMP-0249,Mechanical Housing Module 249,mechanical housing,standard,mature
+CMP-0250,Connectivity Module Module 250,connectivity module,critical,mature
+CMP-0251,Sensor Module 251,sensor,critical,growth
+CMP-0252,Display Module Module 252,display module,critical,growth
+CMP-0253,Display Module Module 253,display module,critical,end-of-life
+CMP-0254,Mechanical Housing Module 254,mechanical housing,standard,new
+CMP-0255,Printed Circuit Board Module 255,printed circuit board,critical,growth
+CMP-0256,Power Electronics Module 256,power electronics,standard,end-of-life
+CMP-0257,Connectivity Module Module 257,connectivity module,standard,mature
+CMP-0258,Mechanical Housing Module 258,mechanical housing,high,new
+CMP-0259,Battery Module 259,battery,standard,growth
+CMP-0260,Semiconductor Module 260,semiconductor,standard,growth
+CMP-0261,Power Electronics Module 261,power electronics,standard,growth
+CMP-0262,Semiconductor Module 262,semiconductor,standard,end-of-life
+CMP-0263,Connectivity Module Module 263,connectivity module,critical,mature
+CMP-0264,Semiconductor Module 264,semiconductor,critical,new
+CMP-0265,Mechanical Housing Module 265,mechanical housing,high,end-of-life
+CMP-0266,Printed Circuit Board Module 266,printed circuit board,standard,end-of-life
+CMP-0267,Sensor Module 267,sensor,critical,new
+CMP-0268,Mechanical Housing Module 268,mechanical housing,critical,end-of-life
+CMP-0269,Sensor Module 269,sensor,standard,new
+CMP-0270,Mechanical Housing Module 270,mechanical housing,standard,growth
+CMP-0271,Printed Circuit Board Module 271,printed circuit board,standard,end-of-life
+CMP-0272,Power Electronics Module 272,power electronics,high,new
+CMP-0273,Power Electronics Module 273,power electronics,standard,growth
+CMP-0274,Printed Circuit Board Module 274,printed circuit board,high,growth
+CMP-0275,Semiconductor Module 275,semiconductor,high,growth
+CMP-0276,Connectivity Module Module 276,connectivity module,standard,mature
+CMP-0277,Sensor Module 277,sensor,high,new
+CMP-0278,Sensor Module 278,sensor,standard,growth
+CMP-0279,Semiconductor Module 279,semiconductor,standard,end-of-life
+CMP-0280,Sensor Module 280,sensor,critical,mature
+CMP-0281,Battery Module 281,battery,standard,mature
+CMP-0282,Mechanical Housing Module 282,mechanical housing,standard,growth
+CMP-0283,Printed Circuit Board Module 283,printed circuit board,high,end-of-life
+CMP-0284,Mechanical Housing Module 284,mechanical housing,high,end-of-life
+CMP-0285,Display Module Module 285,display module,standard,new
+CMP-0286,Connectivity Module Module 286,connectivity module,high,mature
+CMP-0287,Battery Module 287,battery,standard,new
+CMP-0288,Semiconductor Module 288,semiconductor,standard,growth
+CMP-0289,Printed Circuit Board Module 289,printed circuit board,critical,end-of-life
+CMP-0290,Battery Module 290,battery,standard,end-of-life
+CMP-0291,Battery Module 291,battery,standard,end-of-life
+CMP-0292,Semiconductor Module 292,semiconductor,high,end-of-life
+CMP-0293,Connectivity Module Module 293,connectivity module,high,end-of-life
+CMP-0294,Sensor Module 294,sensor,standard,end-of-life
+CMP-0295,Sensor Module 295,sensor,standard,growth
+CMP-0296,Battery Module 296,battery,critical,mature
+CMP-0297,Battery Module 297,battery,high,new
+CMP-0298,Battery Module 298,battery,standard,end-of-life
+CMP-0299,Semiconductor Module 299,semiconductor,high,growth
+CMP-0300,Printed Circuit Board Module 300,printed circuit board,standard,end-of-life
+CMP-0301,Mechanical Housing Module 301,mechanical housing,standard,end-of-life
+CMP-0302,Connectivity Module Module 302,connectivity module,standard,end-of-life
+CMP-0303,Power Electronics Module 303,power electronics,critical,growth
+CMP-0304,Mechanical Housing Module 304,mechanical housing,critical,end-of-life
+CMP-0305,Printed Circuit Board Module 305,printed circuit board,standard,growth
+CMP-0306,Semiconductor Module 306,semiconductor,standard,mature
+CMP-0307,Connectivity Module Module 307,connectivity module,standard,end-of-life
+CMP-0308,Power Electronics Module 308,power electronics,standard,growth
+CMP-0309,Connectivity Module Module 309,connectivity module,high,mature
+CMP-0310,Display Module Module 310,display module,standard,new
+CMP-0311,Semiconductor Module 311,semiconductor,standard,end-of-life
+CMP-0312,Semiconductor Module 312,semiconductor,critical,new
+CMP-0313,Battery Module 313,battery,high,end-of-life
+CMP-0314,Semiconductor Module 314,semiconductor,critical,new
+CMP-0315,Power Electronics Module 315,power electronics,high,growth
+CMP-0316,Semiconductor Module 316,semiconductor,critical,mature
+CMP-0317,Display Module Module 317,display module,standard,mature
+CMP-0318,Mechanical Housing Module 318,mechanical housing,critical,growth
+CMP-0319,Display Module Module 319,display module,high,mature
+CMP-0320,Semiconductor Module 320,semiconductor,high,growth
+CMP-0321,Power Electronics Module 321,power electronics,high,new
+CMP-0322,Mechanical Housing Module 322,mechanical housing,standard,end-of-life
+CMP-0323,Mechanical Housing Module 323,mechanical housing,standard,end-of-life
+CMP-0324,Printed Circuit Board Module 324,printed circuit board,high,growth
+CMP-0325,Connectivity Module Module 325,connectivity module,critical,growth
+CMP-0326,Sensor Module 326,sensor,standard,growth
+CMP-0327,Connectivity Module Module 327,connectivity module,standard,end-of-life
+CMP-0328,Power Electronics Module 328,power electronics,high,growth
+CMP-0329,Power Electronics Module 329,power electronics,critical,growth
+CMP-0330,Mechanical Housing Module 330,mechanical housing,standard,end-of-life
+CMP-0331,Mechanical Housing Module 331,mechanical housing,critical,growth
+CMP-0332,Semiconductor Module 332,semiconductor,high,new
+CMP-0333,Battery Module 333,battery,critical,growth
+CMP-0334,Connectivity Module Module 334,connectivity module,critical,mature
+CMP-0335,Sensor Module 335,sensor,standard,new
+CMP-0336,Display Module Module 336,display module,standard,new
+CMP-0337,Connectivity Module Module 337,connectivity module,standard,growth
+CMP-0338,Power Electronics Module 338,power electronics,standard,mature
+CMP-0339,Sensor Module 339,sensor,high,mature
+CMP-0340,Sensor Module 340,sensor,high,end-of-life
+CMP-0341,Connectivity Module Module 341,connectivity module,critical,end-of-life
+CMP-0342,Mechanical Housing Module 342,mechanical housing,standard,mature
+CMP-0343,Mechanical Housing Module 343,mechanical housing,high,growth
+CMP-0344,Printed Circuit Board Module 344,printed circuit board,critical,end-of-life
+CMP-0345,Sensor Module 345,sensor,critical,mature
+CMP-0346,Display Module Module 346,display module,high,growth
+CMP-0347,Connectivity Module Module 347,connectivity module,high,mature
+CMP-0348,Sensor Module 348,sensor,standard,end-of-life
+CMP-0349,Connectivity Module Module 349,connectivity module,high,mature
+CMP-0350,Printed Circuit Board Module 350,printed circuit board,critical,end-of-life
+CMP-0351,Printed Circuit Board Module 351,printed circuit board,standard,new
+CMP-0352,Semiconductor Module 352,semiconductor,standard,new
+CMP-0353,Semiconductor Module 353,semiconductor,standard,end-of-life
+CMP-0354,Printed Circuit Board Module 354,printed circuit board,standard,growth
+CMP-0355,Battery Module 355,battery,standard,new
+CMP-0356,Display Module Module 356,display module,high,mature
+CMP-0357,Semiconductor Module 357,semiconductor,standard,end-of-life
+CMP-0358,Connectivity Module Module 358,connectivity module,critical,end-of-life
+CMP-0359,Semiconductor Module 359,semiconductor,critical,mature
+CMP-0360,Sensor Module 360,sensor,critical,end-of-life
+CMP-0361,Printed Circuit Board Module 361,printed circuit board,critical,new
+CMP-0362,Printed Circuit Board Module 362,printed circuit board,critical,mature
+CMP-0363,Mechanical Housing Module 363,mechanical housing,high,end-of-life
+CMP-0364,Battery Module 364,battery,high,end-of-life
+CMP-0365,Connectivity Module Module 365,connectivity module,high,growth
+CMP-0366,Sensor Module 366,sensor,standard,new
+CMP-0367,Semiconductor Module 367,semiconductor,critical,end-of-life
+CMP-0368,Power Electronics Module 368,power electronics,high,new
+CMP-0369,Semiconductor Module 369,semiconductor,standard,new
+CMP-0370,Connectivity Module Module 370,connectivity module,standard,mature
+CMP-0371,Battery Module 371,battery,standard,new
+CMP-0372,Display Module Module 372,display module,critical,end-of-life
+CMP-0373,Sensor Module 373,sensor,critical,new
+CMP-0374,Sensor Module 374,sensor,standard,new
+CMP-0375,Printed Circuit Board Module 375,printed circuit board,standard,mature
+CMP-0376,Semiconductor Module 376,semiconductor,standard,growth
+CMP-0377,Power Electronics Module 377,power electronics,standard,mature
+CMP-0378,Printed Circuit Board Module 378,printed circuit board,high,end-of-life
+CMP-0379,Mechanical Housing Module 379,mechanical housing,high,growth
+CMP-0380,Battery Module 380,battery,high,mature
+CMP-0381,Semiconductor Module 381,semiconductor,critical,growth
+CMP-0382,Battery Module 382,battery,high,end-of-life
+CMP-0383,Mechanical Housing Module 383,mechanical housing,critical,mature
+CMP-0384,Connectivity Module Module 384,connectivity module,high,mature
+CMP-0385,Power Electronics Module 385,power electronics,high,end-of-life
+CMP-0386,Battery Module 386,battery,standard,mature
+CMP-0387,Display Module Module 387,display module,standard,new
+CMP-0388,Sensor Module 388,sensor,critical,growth
+CMP-0389,Power Electronics Module 389,power electronics,high,new
+CMP-0390,Battery Module 390,battery,critical,mature
+CMP-0391,Connectivity Module Module 391,connectivity module,high,mature
+CMP-0392,Battery Module 392,battery,critical,growth
+CMP-0393,Power Electronics Module 393,power electronics,high,end-of-life
+CMP-0394,Battery Module 394,battery,critical,mature
+CMP-0395,Battery Module 395,battery,high,mature
+CMP-0396,Power Electronics Module 396,power electronics,critical,end-of-life
+CMP-0397,Power Electronics Module 397,power electronics,standard,growth
+CMP-0398,Printed Circuit Board Module 398,printed circuit board,standard,growth
+CMP-0399,Printed Circuit Board Module 399,printed circuit board,high,mature
+CMP-0400,Connectivity Module Module 400,connectivity module,critical,growth

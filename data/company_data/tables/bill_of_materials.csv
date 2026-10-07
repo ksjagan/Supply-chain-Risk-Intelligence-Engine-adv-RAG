@@ -1,0 +1,568 @@
+product_id,product_name,component_id,component_name,primary_supplier_id,primary_supplier_name,alternate_supplier_id,alternate_supplier_name,component_criticality,quantity_per_unit,single_source_flag
+PRD-001,Pulse Wearable Dock 01,CMP-0060,Battery Module 060,SUP-0130,Bharat Electronics China,SUP-0020,Nordic Circuits Poland,high,1,no
+PRD-001,Pulse Wearable Dock 01,CMP-0233,Semiconductor Module 233,SUP-0052,Delta Optics South Korea,SUP-0060,Mekong Assembly Malaysia,high,8,no
+PRD-001,Pulse Wearable Dock 01,CMP-0314,Semiconductor Module 314,SUP-0112,Mekong Foundry Poland,SUP-0095,Shenzhen Assembly China,critical,3,no
+PRD-001,Pulse Wearable Dock 01,CMP-0312,Semiconductor Module 312,SUP-0112,Mekong Foundry Poland,,,critical,5,yes
+PRD-001,Pulse Wearable Dock 01,CMP-0029,Power Electronics Module 029,SUP-0021,Mekong Materials Germany,SUP-0002,Nova MicroSystems Vietnam,standard,6,no
+PRD-001,Pulse Wearable Dock 01,CMP-0159,Mechanical Housing Module 159,SUP-0086,Shenzhen Electronics Taiwan,,,high,2,yes
+PRD-001,Pulse Wearable Dock 01,CMP-0342,Mechanical Housing Module 342,SUP-0064,Bharat Optics Turkey,SUP-0134,Mekong Cells Turkey,standard,11,no
+PRD-001,Pulse Wearable Dock 01,CMP-0380,Battery Module 380,SUP-0017,Vertex Foundry China,SUP-0105,Azura MicroSystems Poland,high,6,no
+PRD-002,Atlas Robotics Kit 02,CMP-0256,Power Electronics Module 256,SUP-0056,Vertex Circuits Mexico,SUP-0127,Apex Cells India,standard,11,no
+PRD-002,Atlas Robotics Kit 02,CMP-0291,Battery Module 291,SUP-0141,Vertex Assembly Taiwan,,,standard,12,yes
+PRD-002,Atlas Robotics Kit 02,CMP-0086,Mechanical Housing Module 086,SUP-0117,Nordic Foundry Mexico,,,critical,1,yes
+PRD-002,Atlas Robotics Kit 02,CMP-0189,Printed Circuit Board Module 189,SUP-0037,Vertex Foundry Mexico,,,standard,6,yes
+PRD-002,Atlas Robotics Kit 02,CMP-0081,Mechanical Housing Module 081,SUP-0084,Mekong Precision South Korea,SUP-0027,Delta Cells Mexico,high,1,no
+PRD-003,Zenith Edge Server 03,CMP-0366,Sensor Module 366,SUP-0057,Shenzhen Cells Malaysia,,,standard,2,yes
+PRD-003,Zenith Edge Server 03,CMP-0380,Battery Module 380,SUP-0122,Nordic Assembly Poland,,,high,9,yes
+PRD-003,Zenith Edge Server 03,CMP-0336,Display Module Module 336,SUP-0106,Vertex Optics Vietnam,SUP-0012,Summit Materials China,standard,4,no
+PRD-003,Zenith Edge Server 03,CMP-0215,Semiconductor Module 215,SUP-0142,Nova Foundry China,SUP-0113,Mekong Circuits Vietnam 113,high,2,no
+PRD-003,Zenith Edge Server 03,CMP-0115,Battery Module 115,SUP-0094,Nova Optics Poland,SUP-0068,Taiwan Components Taiwan,standard,6,no
+PRD-003,Zenith Edge Server 03,CMP-0165,Connectivity Module Module 165,SUP-0025,Mekong Assembly China,SUP-0022,Nordic Assembly India,high,6,no
+PRD-003,Zenith Edge Server 03,CMP-0128,Printed Circuit Board Module 128,SUP-0037,Vertex Foundry Mexico,,,standard,5,yes
+PRD-003,Zenith Edge Server 03,CMP-0214,Mechanical Housing Module 214,SUP-0140,Bharat MicroSystems Mexico 140,,,standard,6,yes
+PRD-003,Zenith Edge Server 03,CMP-0369,Semiconductor Module 369,SUP-0147,Nova Electronics Taiwan,SUP-0073,Delta Components Mexico,standard,12,no
+PRD-004,Atlas Robotics Kit 04,CMP-0390,Battery Module 390,SUP-0128,Azura Components China,SUP-0005,Korea Electronics Mexico,critical,6,no
+PRD-004,Atlas Robotics Kit 04,CMP-0126,Printed Circuit Board Module 126,SUP-0014,Vertex Components China,SUP-0077,Mekong Circuits Turkey,high,12,no
+PRD-004,Atlas Robotics Kit 04,CMP-0078,Battery Module 078,SUP-0141,Vertex Assembly Taiwan,,,high,4,yes
+PRD-004,Atlas Robotics Kit 04,CMP-0004,Battery Module 004,SUP-0105,Azura MicroSystems Poland,SUP-0092,Mekong Foundry South Korea,high,8,no
+PRD-004,Atlas Robotics Kit 04,CMP-0210,Mechanical Housing Module 210,SUP-0013,Mekong Circuits Mexico,SUP-0026,Taiwan Components Mexico,critical,12,no
+PRD-004,Atlas Robotics Kit 04,CMP-0013,Connectivity Module Module 013,SUP-0088,Nova Precision Poland,,,high,4,yes
+PRD-004,Atlas Robotics Kit 04,CMP-0120,Printed Circuit Board Module 120,SUP-0093,Shenzhen MicroSystems Germany,SUP-0065,Summit Assembly Poland,high,8,no
+PRD-004,Atlas Robotics Kit 04,CMP-0278,Sensor Module 278,SUP-0126,Nova MicroSystems China,,,standard,2,yes
+PRD-004,Atlas Robotics Kit 04,CMP-0178,Connectivity Module Module 178,SUP-0109,Shenzhen Components Mexico,,,high,7,yes
+PRD-005,Nova Health Monitor 05,CMP-0304,Mechanical Housing Module 304,SUP-0026,Taiwan Components Mexico,,,critical,5,yes
+PRD-005,Nova Health Monitor 05,CMP-0291,Battery Module 291,SUP-0076,Vertex MicroSystems Taiwan,SUP-0087,Mekong Components Taiwan,standard,12,no
+PRD-005,Nova Health Monitor 05,CMP-0032,Semiconductor Module 032,SUP-0103,Apex Foundry Vietnam,,,critical,5,yes
+PRD-005,Nova Health Monitor 05,CMP-0223,Connectivity Module Module 223,SUP-0058,Vertex Cells Poland,,,high,4,yes
+PRD-005,Nova Health Monitor 05,CMP-0340,Sensor Module 340,SUP-0042,Nordic Assembly Taiwan,SUP-0101,Summit Foundry Taiwan,high,2,no
+PRD-006,Zenith Edge Server 06,CMP-0055,Connectivity Module Module 055,SUP-0025,Mekong Assembly China,SUP-0144,Azura Components Vietnam,standard,4,no
+PRD-006,Zenith Edge Server 06,CMP-0085,Sensor Module 085,SUP-0083,Azura Materials China,,,high,5,yes
+PRD-006,Zenith Edge Server 06,CMP-0231,Semiconductor Module 231,SUP-0040,Vertex Materials Germany,,,high,11,yes
+PRD-006,Zenith Edge Server 06,CMP-0239,Power Electronics Module 239,SUP-0069,Taiwan Optics Taiwan,SUP-0136,Apex Materials India 136,high,1,no
+PRD-006,Zenith Edge Server 06,CMP-0161,Mechanical Housing Module 161,SUP-0036,Shenzhen Cells Turkey,SUP-0070,Shenzhen Components Malaysia,high,3,no
+PRD-006,Zenith Edge Server 06,CMP-0209,Connectivity Module Module 209,SUP-0025,Mekong Assembly China,SUP-0098,Shenzhen Optics Poland,standard,7,no
+PRD-007,Zenith Edge Server 07,CMP-0026,Printed Circuit Board Module 026,SUP-0143,Korea Materials Germany 143,SUP-0018,Nordic Materials India,standard,8,no
+PRD-007,Zenith Edge Server 07,CMP-0347,Connectivity Module Module 347,SUP-0025,Mekong Assembly China,SUP-0030,Bharat Cells Mexico,high,2,no
+PRD-007,Zenith Edge Server 07,CMP-0154,Power Electronics Module 154,SUP-0002,Nova MicroSystems Vietnam,,,high,4,yes
+PRD-007,Zenith Edge Server 07,CMP-0134,Mechanical Housing Module 134,SUP-0026,Taiwan Components Mexico,,,critical,7,yes
+PRD-007,Zenith Edge Server 07,CMP-0090,Printed Circuit Board Module 090,SUP-0065,Summit Assembly Poland,SUP-0137,Shenzhen Assembly South Korea,standard,2,no
+PRD-007,Zenith Edge Server 07,CMP-0016,Power Electronics Module 016,SUP-0127,Apex Cells India,SUP-0006,Delta Materials Vietnam,high,1,no
+PRD-007,Zenith Edge Server 07,CMP-0208,Connectivity Module Module 208,SUP-0025,Mekong Assembly China,,,critical,11,yes
+PRD-007,Zenith Edge Server 07,CMP-0232,Power Electronics Module 232,SUP-0097,Azura Optics Vietnam,SUP-0006,Delta Materials Vietnam,critical,6,no
+PRD-007,Zenith Edge Server 07,CMP-0285,Display Module Module 285,SUP-0010,Nova Electronics Malaysia,,,standard,8,yes
+PRD-008,Atlas Robotics Kit 08,CMP-0087,Mechanical Housing Module 087,SUP-0110,Shenzhen Electronics Vietnam,,,high,11,yes
+PRD-008,Atlas Robotics Kit 08,CMP-0294,Sensor Module 294,SUP-0075,Delta Assembly Mexico,,,standard,4,yes
+PRD-008,Atlas Robotics Kit 08,CMP-0222,Semiconductor Module 222,SUP-0060,Mekong Assembly Malaysia,,,critical,8,yes
+PRD-008,Atlas Robotics Kit 08,CMP-0371,Battery Module 371,SUP-0034,Apex Precision Germany,,,standard,10,yes
+PRD-008,Atlas Robotics Kit 08,CMP-0203,Battery Module 203,SUP-0123,Bharat Foundry China,,,critical,5,yes
+PRD-009,Orion Smart Hub 09,CMP-0211,Connectivity Module Module 211,SUP-0104,Summit Components Vietnam 104,,,high,9,yes
+PRD-009,Orion Smart Hub 09,CMP-0282,Mechanical Housing Module 282,SUP-0059,Delta Cells Germany,SUP-0132,Azura Foundry Turkey,standard,1,no
+PRD-009,Orion Smart Hub 09,CMP-0246,Sensor Module 246,SUP-0075,Delta Assembly Mexico,SUP-0057,Shenzhen Cells Malaysia,high,8,no
+PRD-009,Orion Smart Hub 09,CMP-0032,Semiconductor Module 032,SUP-0146,Taiwan Foundry India,SUP-0112,Mekong Foundry Poland,critical,10,no
+PRD-009,Orion Smart Hub 09,CMP-0045,Semiconductor Module 045,SUP-0142,Nova Foundry China,,,critical,5,yes
+PRD-009,Orion Smart Hub 09,CMP-0144,Power Electronics Module 144,SUP-0044,Delta Precision Poland 44,,,standard,10,yes
+PRD-009,Orion Smart Hub 09,CMP-0197,Connectivity Module Module 197,SUP-0058,Vertex Cells Poland,,,critical,5,yes
+PRD-009,Orion Smart Hub 09,CMP-0071,Sensor Module 071,SUP-0015,Nordic MicroSystems Poland,SUP-0083,Azura Materials China,high,9,no
+PRD-010,Aster Industrial Gateway 10,CMP-0393,Power Electronics Module 393,SUP-0051,Korea MicroSystems Germany 51,,,high,12,yes
+PRD-010,Aster Industrial Gateway 10,CMP-0300,Printed Circuit Board Module 300,SUP-0014,Vertex Components China,SUP-0037,Vertex Foundry Mexico,standard,10,no
+PRD-010,Aster Industrial Gateway 10,CMP-0120,Printed Circuit Board Module 120,SUP-0077,Mekong Circuits Turkey,,,high,3,yes
+PRD-010,Aster Industrial Gateway 10,CMP-0082,Power Electronics Module 082,SUP-0044,Delta Precision Poland 44,,,high,6,yes
+PRD-010,Aster Industrial Gateway 10,CMP-0052,Mechanical Housing Module 052,SUP-0078,Apex Optics South Korea,SUP-0008,Apex Electronics Poland,high,12,no
+PRD-010,Aster Industrial Gateway 10,CMP-0127,Mechanical Housing Module 127,SUP-0078,Apex Optics South Korea,SUP-0134,Mekong Cells Turkey,critical,3,no
+PRD-010,Aster Industrial Gateway 10,CMP-0337,Connectivity Module Module 337,SUP-0111,Taiwan MicroSystems Germany,SUP-0145,Bharat Cells Taiwan,standard,8,no
+PRD-011,Helios Energy Controller 11,CMP-0159,Mechanical Housing Module 159,SUP-0008,Apex Electronics Poland,SUP-0008,Apex Electronics Poland,high,6,no
+PRD-011,Helios Energy Controller 11,CMP-0090,Printed Circuit Board Module 090,SUP-0107,Bharat Materials Malaysia,,,standard,3,yes
+PRD-011,Helios Energy Controller 11,CMP-0252,Display Module Module 252,SUP-0047,Apex Circuits China,SUP-0047,Apex Circuits China,critical,1,no
+PRD-011,Helios Energy Controller 11,CMP-0020,Battery Module 020,SUP-0005,Korea Electronics Mexico,,,critical,12,yes
+PRD-011,Helios Energy Controller 11,CMP-0047,Mechanical Housing Module 047,SUP-0026,Taiwan Components Mexico,SUP-0117,Nordic Foundry Mexico,critical,6,no
+PRD-011,Helios Energy Controller 11,CMP-0029,Power Electronics Module 029,SUP-0006,Delta Materials Vietnam,,,standard,11,yes
+PRD-011,Helios Energy Controller 11,CMP-0120,Printed Circuit Board Module 120,SUP-0077,Mekong Circuits Turkey,SUP-0065,Summit Assembly Poland,high,5,no
+PRD-011,Helios Energy Controller 11,CMP-0309,Connectivity Module Module 309,SUP-0098,Shenzhen Optics Poland,,,high,3,yes
+PRD-011,Helios Energy Controller 11,CMP-0113,Display Module Module 113,SUP-0129,Bharat Foundry China 129,SUP-0102,Taiwan Precision South Korea,high,8,no
+PRD-012,Aster Industrial Gateway 12,CMP-0090,Printed Circuit Board Module 090,SUP-0137,Shenzhen Assembly South Korea,SUP-0028,Shenzhen Assembly Mexico,standard,7,no
+PRD-012,Aster Industrial Gateway 12,CMP-0363,Mechanical Housing Module 363,SUP-0067,Nordic Precision India,SUP-0067,Nordic Precision India,high,3,no
+PRD-012,Aster Industrial Gateway 12,CMP-0288,Semiconductor Module 288,SUP-0060,Mekong Assembly Malaysia,SUP-0147,Nova Electronics Taiwan,standard,7,no
+PRD-012,Aster Industrial Gateway 12,CMP-0356,Display Module Module 356,SUP-0148,Azura Cells Germany,SUP-0007,Shenzhen Precision Malaysia,high,3,no
+PRD-012,Aster Industrial Gateway 12,CMP-0315,Power Electronics Module 315,SUP-0136,Apex Materials India 136,,,high,10,yes
+PRD-012,Aster Industrial Gateway 12,CMP-0183,Battery Module 183,SUP-0053,Taiwan Optics Germany,SUP-0020,Nordic Circuits Poland,high,8,no
+PRD-012,Aster Industrial Gateway 12,CMP-0115,Battery Module 115,SUP-0034,Apex Precision Germany,,,standard,2,yes
+PRD-013,Orion Smart Hub 13,CMP-0178,Connectivity Module Module 178,SUP-0118,Apex Assembly Turkey,SUP-0098,Shenzhen Optics Poland,high,8,no
+PRD-013,Orion Smart Hub 13,CMP-0164,Battery Module 164,SUP-0005,Korea Electronics Mexico,,,critical,4,yes
+PRD-013,Orion Smart Hub 13,CMP-0086,Mechanical Housing Module 086,SUP-0019,Shenzhen Cells Vietnam,,,critical,2,yes
+PRD-013,Orion Smart Hub 13,CMP-0326,Sensor Module 326,SUP-0126,Nova MicroSystems China,,,standard,7,yes
+PRD-013,Orion Smart Hub 13,CMP-0046,Printed Circuit Board Module 046,SUP-0091,Mekong Cells Germany,SUP-0028,Shenzhen Assembly Mexico,standard,7,no
+PRD-013,Orion Smart Hub 13,CMP-0363,Mechanical Housing Module 363,SUP-0110,Shenzhen Electronics Vietnam,SUP-0078,Apex Optics South Korea,high,9,no
+PRD-014,Aster Industrial Gateway 14,CMP-0052,Mechanical Housing Module 052,SUP-0089,Bharat Materials Turkey,,,high,1,yes
+PRD-014,Aster Industrial Gateway 14,CMP-0246,Sensor Module 246,SUP-0055,Vertex Components South Korea,,,high,5,yes
+PRD-014,Aster Industrial Gateway 14,CMP-0296,Battery Module 296,SUP-0020,Nordic Circuits Poland,,,critical,3,yes
+PRD-014,Aster Industrial Gateway 14,CMP-0334,Connectivity Module Module 334,SUP-0104,Summit Components Vietnam 104,,,critical,2,yes
+PRD-014,Aster Industrial Gateway 14,CMP-0389,Power Electronics Module 389,SUP-0124,Korea Assembly Germany,SUP-0006,Delta Materials Vietnam,high,6,no
+PRD-014,Aster Industrial Gateway 14,CMP-0352,Semiconductor Module 352,SUP-0149,Shenzhen Circuits Turkey,SUP-0139,Shenzhen Materials Mexico,standard,12,no
+PRD-014,Aster Industrial Gateway 14,CMP-0116,Printed Circuit Board Module 116,SUP-0014,Vertex Components China,SUP-0137,Shenzhen Assembly South Korea,critical,3,no
+PRD-014,Aster Industrial Gateway 14,CMP-0084,Battery Module 084,SUP-0123,Bharat Foundry China,SUP-0038,Delta Materials Turkey,high,1,no
+PRD-015,Pulse Wearable Dock 15,CMP-0170,Battery Module 170,SUP-0114,Bharat Precision Taiwan,SUP-0141,Vertex Assembly Taiwan,standard,9,no
+PRD-015,Pulse Wearable Dock 15,CMP-0106,Printed Circuit Board Module 106,SUP-0045,Taiwan Circuits India,SUP-0045,Taiwan Circuits India,standard,4,no
+PRD-015,Pulse Wearable Dock 15,CMP-0098,Printed Circuit Board Module 098,SUP-0018,Nordic Materials India,,,standard,10,yes
+PRD-015,Pulse Wearable Dock 15,CMP-0210,Mechanical Housing Module 210,SUP-0132,Azura Foundry Turkey,SUP-0026,Taiwan Components Mexico,critical,1,no
+PRD-015,Pulse Wearable Dock 15,CMP-0357,Semiconductor Module 357,SUP-0112,Mekong Foundry Poland,,,standard,2,yes
+PRD-016,Vega Retail Sensor 16,CMP-0339,Sensor Module 339,SUP-0043,Nova MicroSystems Mexico,,,high,5,yes
+PRD-016,Vega Retail Sensor 16,CMP-0321,Power Electronics Module 321,SUP-0006,Delta Materials Vietnam,SUP-0021,Mekong Materials Germany,high,5,no
+PRD-016,Vega Retail Sensor 16,CMP-0308,Power Electronics Module 308,SUP-0081,Vertex Electronics Germany,SUP-0056,Vertex Circuits Mexico,standard,2,no
+PRD-016,Vega Retail Sensor 16,CMP-0246,Sensor Module 246,SUP-0115,Taiwan Assembly Germany,SUP-0042,Nordic Assembly Taiwan,high,6,no
+PRD-016,Vega Retail Sensor 16,CMP-0103,Mechanical Housing Module 103,SUP-0084,Mekong Precision South Korea,,,standard,8,yes
+PRD-016,Vega Retail Sensor 16,CMP-0050,Battery Module 050,SUP-0016,Shenzhen Components India,,,high,8,yes
+PRD-016,Vega Retail Sensor 16,CMP-0014,Battery Module 014,SUP-0062,Taiwan Cells Malaysia,,,standard,5,yes
+PRD-017,Zenith Edge Server 17,CMP-0032,Semiconductor Module 032,SUP-0146,Taiwan Foundry India,SUP-0147,Nova Electronics Taiwan,critical,4,no
+PRD-017,Zenith Edge Server 17,CMP-0078,Battery Module 078,SUP-0114,Bharat Precision Taiwan,,,high,7,yes
+PRD-017,Zenith Edge Server 17,CMP-0386,Battery Module 386,SUP-0105,Azura MicroSystems Poland,SUP-0114,Bharat Precision Taiwan,standard,11,no
+PRD-017,Zenith Edge Server 17,CMP-0357,Semiconductor Module 357,SUP-0139,Shenzhen Materials Mexico,SUP-0079,Shenzhen Optics Vietnam,standard,8,no
+PRD-017,Zenith Edge Server 17,CMP-0342,Mechanical Housing Module 342,SUP-0067,Nordic Precision India,,,standard,12,yes
+PRD-017,Zenith Edge Server 17,CMP-0050,Battery Module 050,SUP-0016,Shenzhen Components India,SUP-0105,Azura MicroSystems Poland,high,10,no
+PRD-017,Zenith Edge Server 17,CMP-0044,Semiconductor Module 044,SUP-0149,Shenzhen Circuits Turkey,,,critical,8,yes
+PRD-017,Zenith Edge Server 17,CMP-0343,Mechanical Housing Module 343,SUP-0027,Delta Cells Mexico,SUP-0027,Delta Cells Mexico,high,4,no
+PRD-017,Zenith Edge Server 17,CMP-0177,Battery Module 177,SUP-0041,Summit Materials Vietnam,,,critical,7,yes
+PRD-018,Atlas Robotics Kit 18,CMP-0350,Printed Circuit Board Module 350,SUP-0107,Bharat Materials Malaysia,,,critical,12,yes
+PRD-018,Atlas Robotics Kit 18,CMP-0223,Connectivity Module Module 223,SUP-0144,Azura Components Vietnam,,,high,7,yes
+PRD-018,Atlas Robotics Kit 18,CMP-0104,Connectivity Module Module 104,SUP-0109,Shenzhen Components Mexico,SUP-0098,Shenzhen Optics Poland,standard,5,no
+PRD-018,Atlas Robotics Kit 18,CMP-0322,Mechanical Housing Module 322,SUP-0117,Nordic Foundry Mexico,SUP-0008,Apex Electronics Poland,standard,12,no
+PRD-018,Atlas Robotics Kit 18,CMP-0076,Mechanical Housing Module 076,SUP-0140,Bharat MicroSystems Mexico 140,SUP-0086,Shenzhen Electronics Taiwan,standard,2,no
+PRD-019,Aster Industrial Gateway 19,CMP-0077,Semiconductor Module 077,SUP-0147,Nova Electronics Taiwan,SUP-0096,Apex Circuits Vietnam,high,9,no
+PRD-019,Aster Industrial Gateway 19,CMP-0076,Mechanical Housing Module 076,SUP-0078,Apex Optics South Korea,SUP-0064,Bharat Optics Turkey,standard,7,no
+PRD-019,Aster Industrial Gateway 19,CMP-0291,Battery Module 291,SUP-0128,Azura Components China,SUP-0123,Bharat Foundry China,standard,8,no
+PRD-019,Aster Industrial Gateway 19,CMP-0302,Connectivity Module Module 302,SUP-0022,Nordic Assembly India,,,standard,7,yes
+PRD-019,Aster Industrial Gateway 19,CMP-0299,Semiconductor Module 299,SUP-0052,Delta Optics South Korea,SUP-0113,Mekong Circuits Vietnam 113,high,1,no
+PRD-019,Aster Industrial Gateway 19,CMP-0389,Power Electronics Module 389,SUP-0081,Vertex Electronics Germany,SUP-0072,Summit Circuits India,high,12,no
+PRD-019,Aster Industrial Gateway 19,CMP-0052,Mechanical Housing Module 052,SUP-0059,Delta Cells Germany,,,high,8,yes
+PRD-019,Aster Industrial Gateway 19,CMP-0055,Connectivity Module Module 055,SUP-0088,Nova Precision Poland,SUP-0022,Nordic Assembly India,standard,6,no
+PRD-020,Zenith Edge Server 20,CMP-0160,Printed Circuit Board Module 160,SUP-0028,Shenzhen Assembly Mexico,,,standard,12,yes
+PRD-020,Zenith Edge Server 20,CMP-0144,Power Electronics Module 144,SUP-0097,Azura Optics Vietnam,SUP-0072,Summit Circuits India,standard,5,no
+PRD-020,Zenith Edge Server 20,CMP-0252,Display Module Module 252,SUP-0129,Bharat Foundry China 129,SUP-0102,Taiwan Precision South Korea,critical,2,no
+PRD-020,Zenith Edge Server 20,CMP-0357,Semiconductor Module 357,SUP-0073,Delta Components Mexico,SUP-0120,Korea Assembly Mexico,standard,12,no
+PRD-020,Zenith Edge Server 20,CMP-0351,Printed Circuit Board Module 351,SUP-0091,Mekong Cells Germany,SUP-0065,Summit Assembly Poland,standard,1,no
+PRD-020,Zenith Edge Server 20,CMP-0051,Power Electronics Module 051,SUP-0119,Bharat Electronics Germany,SUP-0006,Delta Materials Vietnam,critical,5,no
+PRD-020,Zenith Edge Server 20,CMP-0117,Connectivity Module Module 117,SUP-0121,Nova Circuits China,SUP-0030,Bharat Cells Mexico,standard,9,no
+PRD-021,Atlas Robotics Kit 21,CMP-0015,Display Module Module 015,SUP-0048,Shenzhen Circuits Mexico,SUP-0039,Korea Foundry Vietnam,high,6,no
+PRD-021,Atlas Robotics Kit 21,CMP-0089,Sensor Module 089,SUP-0135,Bharat MicroSystems Malaysia,SUP-0075,Delta Assembly Mexico,high,11,no
+PRD-021,Atlas Robotics Kit 21,CMP-0099,Power Electronics Module 099,SUP-0021,Mekong Materials Germany,SUP-0051,Korea MicroSystems Germany 51,high,6,no
+PRD-021,Atlas Robotics Kit 21,CMP-0103,Mechanical Housing Module 103,SUP-0110,Shenzhen Electronics Vietnam,SUP-0027,Delta Cells Mexico,standard,8,no
+PRD-021,Atlas Robotics Kit 21,CMP-0030,Sensor Module 030,SUP-0101,Summit Foundry Taiwan,SUP-0057,Shenzhen Cells Malaysia,critical,3,no
+PRD-021,Atlas Robotics Kit 21,CMP-0128,Printed Circuit Board Module 128,SUP-0045,Taiwan Circuits India,SUP-0143,Korea Materials Germany 143,standard,2,no
+PRD-021,Atlas Robotics Kit 21,CMP-0017,Power Electronics Module 017,SUP-0069,Taiwan Optics Taiwan,,,high,1,yes
+PRD-021,Atlas Robotics Kit 21,CMP-0234,Display Module Module 234,SUP-0012,Summit Materials China,SUP-0148,Azura Cells Germany,critical,4,no
+PRD-021,Atlas Robotics Kit 21,CMP-0026,Printed Circuit Board Module 026,SUP-0037,Vertex Foundry Mexico,SUP-0137,Shenzhen Assembly South Korea,standard,4,no
+PRD-022,Orion Smart Hub 22,CMP-0334,Connectivity Module Module 334,SUP-0022,Nordic Assembly India,SUP-0030,Bharat Cells Mexico,critical,11,no
+PRD-022,Orion Smart Hub 22,CMP-0210,Mechanical Housing Module 210,SUP-0027,Delta Cells Mexico,SUP-0008,Apex Electronics Poland,critical,4,no
+PRD-022,Orion Smart Hub 22,CMP-0263,Connectivity Module Module 263,SUP-0088,Nova Precision Poland,SUP-0088,Nova Precision Poland,critical,12,no
+PRD-022,Orion Smart Hub 22,CMP-0011,Printed Circuit Board Module 011,SUP-0143,Korea Materials Germany 143,SUP-0077,Mekong Circuits Turkey,high,7,no
+PRD-022,Orion Smart Hub 22,CMP-0400,Connectivity Module Module 400,SUP-0145,Bharat Cells Taiwan,,,critical,5,yes
+PRD-022,Orion Smart Hub 22,CMP-0393,Power Electronics Module 393,SUP-0050,Korea Foundry Taiwan,SUP-0119,Bharat Electronics Germany,high,10,no
+PRD-022,Orion Smart Hub 22,CMP-0350,Printed Circuit Board Module 350,SUP-0077,Mekong Circuits Turkey,SUP-0014,Vertex Components China,critical,9,no
+PRD-023,Helios Energy Controller 23,CMP-0288,Semiconductor Module 288,SUP-0040,Vertex Materials Germany,SUP-0103,Apex Foundry Vietnam,standard,5,no
+PRD-023,Helios Energy Controller 23,CMP-0332,Semiconductor Module 332,SUP-0150,Apex MicroSystems Vietnam,,,high,5,yes
+PRD-023,Helios Energy Controller 23,CMP-0305,Printed Circuit Board Module 305,SUP-0045,Taiwan Circuits India,SUP-0137,Shenzhen Assembly South Korea,standard,5,no
+PRD-023,Helios Energy Controller 23,CMP-0312,Semiconductor Module 312,SUP-0073,Delta Components Mexico,,,critical,4,yes
+PRD-023,Helios Energy Controller 23,CMP-0145,Power Electronics Module 145,SUP-0004,Korea Foundry China,SUP-0136,Apex Materials India 136,high,7,no
+PRD-023,Helios Energy Controller 23,CMP-0153,Connectivity Module Module 153,SUP-0118,Apex Assembly Turkey,,,critical,3,yes
+PRD-023,Helios Energy Controller 23,CMP-0351,Printed Circuit Board Module 351,SUP-0143,Korea Materials Germany 143,,,standard,8,yes
+PRD-024,Zenith Edge Server 24,CMP-0133,Mechanical Housing Module 133,SUP-0134,Mekong Cells Turkey,SUP-0070,Shenzhen Components Malaysia,critical,12,no
+PRD-024,Zenith Edge Server 24,CMP-0215,Semiconductor Module 215,SUP-0079,Shenzhen Optics Vietnam,SUP-0150,Apex MicroSystems Vietnam,high,8,no
+PRD-024,Zenith Edge Server 24,CMP-0208,Connectivity Module Module 208,SUP-0118,Apex Assembly Turkey,,,critical,5,yes
+PRD-024,Zenith Edge Server 24,CMP-0199,Mechanical Housing Module 199,SUP-0027,Delta Cells Mexico,SUP-0132,Azura Foundry Turkey,standard,3,no
+PRD-024,Zenith Edge Server 24,CMP-0378,Printed Circuit Board Module 378,SUP-0045,Taiwan Circuits India,,,high,3,yes
+PRD-024,Zenith Edge Server 24,CMP-0019,Mechanical Housing Module 019,SUP-0064,Bharat Optics Turkey,SUP-0132,Azura Foundry Turkey,standard,3,no
+PRD-024,Zenith Edge Server 24,CMP-0299,Semiconductor Module 299,SUP-0103,Apex Foundry Vietnam,SUP-0079,Shenzhen Optics Vietnam,high,6,no
+PRD-025,Pulse Wearable Dock 25,CMP-0382,Battery Module 382,SUP-0122,Nordic Assembly Poland,,,high,2,yes
+PRD-025,Pulse Wearable Dock 25,CMP-0158,Semiconductor Module 158,SUP-0139,Shenzhen Materials Mexico,,,critical,11,yes
+PRD-025,Pulse Wearable Dock 25,CMP-0216,Mechanical Housing Module 216,SUP-0134,Mekong Cells Turkey,SUP-0140,Bharat MicroSystems Mexico 140,high,2,no
+PRD-025,Pulse Wearable Dock 25,CMP-0170,Battery Module 170,SUP-0100,Apex MicroSystems China,SUP-0105,Azura MicroSystems Poland,standard,2,no
+PRD-025,Pulse Wearable Dock 25,CMP-0191,Battery Module 191,SUP-0130,Bharat Electronics China,SUP-0068,Taiwan Components Taiwan,critical,7,no
+PRD-025,Pulse Wearable Dock 25,CMP-0134,Mechanical Housing Module 134,SUP-0013,Mekong Circuits Mexico,SUP-0026,Taiwan Components Mexico,critical,3,no
+PRD-026,Pulse Wearable Dock 26,CMP-0176,Connectivity Module Module 176,SUP-0145,Bharat Cells Taiwan,SUP-0144,Azura Components Vietnam,standard,2,no
+PRD-026,Pulse Wearable Dock 26,CMP-0210,Mechanical Housing Module 210,SUP-0110,Shenzhen Electronics Vietnam,,,critical,3,yes
+PRD-026,Pulse Wearable Dock 26,CMP-0292,Semiconductor Module 292,SUP-0103,Apex Foundry Vietnam,SUP-0001,Summit Foundry Vietnam,high,8,no
+PRD-026,Pulse Wearable Dock 26,CMP-0235,Power Electronics Module 235,SUP-0056,Vertex Circuits Mexico,,,critical,3,yes
+PRD-026,Pulse Wearable Dock 26,CMP-0074,Power Electronics Module 074,SUP-0127,Apex Cells India,SUP-0116,Mekong Optics China,high,2,no
+PRD-026,Pulse Wearable Dock 26,CMP-0162,Printed Circuit Board Module 162,SUP-0028,Shenzhen Assembly Mexico,SUP-0137,Shenzhen Assembly South Korea,high,7,no
+PRD-027,Aster Industrial Gateway 27,CMP-0220,Mechanical Housing Module 220,SUP-0078,Apex Optics South Korea,SUP-0070,Shenzhen Components Malaysia,standard,9,no
+PRD-027,Aster Industrial Gateway 27,CMP-0245,Connectivity Module Module 245,SUP-0058,Vertex Cells Poland,,,high,1,yes
+PRD-027,Aster Industrial Gateway 27,CMP-0197,Connectivity Module Module 197,SUP-0118,Apex Assembly Turkey,SUP-0058,Vertex Cells Poland,critical,12,no
+PRD-027,Aster Industrial Gateway 27,CMP-0003,Connectivity Module Module 003,SUP-0098,Shenzhen Optics Poland,,,high,2,yes
+PRD-027,Aster Industrial Gateway 27,CMP-0020,Battery Module 020,SUP-0087,Mekong Components Taiwan,SUP-0068,Taiwan Components Taiwan,critical,3,no
+PRD-027,Aster Industrial Gateway 27,CMP-0274,Printed Circuit Board Module 274,SUP-0018,Nordic Materials India,SUP-0045,Taiwan Circuits India,high,5,no
+PRD-027,Aster Industrial Gateway 27,CMP-0103,Mechanical Housing Module 103,SUP-0089,Bharat Materials Turkey,SUP-0140,Bharat MicroSystems Mexico 140,standard,9,no
+PRD-027,Aster Industrial Gateway 27,CMP-0375,Printed Circuit Board Module 375,SUP-0065,Summit Assembly Poland,SUP-0137,Shenzhen Assembly South Korea,standard,3,no
+PRD-028,Vega Retail Sensor 28,CMP-0251,Sensor Module 251,SUP-0043,Nova MicroSystems Mexico,,,critical,3,yes
+PRD-028,Vega Retail Sensor 28,CMP-0184,Printed Circuit Board Module 184,SUP-0037,Vertex Foundry Mexico,SUP-0107,Bharat Materials Malaysia,critical,9,no
+PRD-028,Vega Retail Sensor 28,CMP-0385,Power Electronics Module 385,SUP-0044,Delta Precision Poland 44,,,high,12,yes
+PRD-028,Vega Retail Sensor 28,CMP-0097,Power Electronics Module 097,SUP-0004,Korea Foundry China,,,critical,11,yes
+PRD-028,Vega Retail Sensor 28,CMP-0085,Sensor Module 085,SUP-0055,Vertex Components South Korea,SUP-0101,Summit Foundry Taiwan,high,1,no
+PRD-028,Vega Retail Sensor 28,CMP-0207,Connectivity Module Module 207,SUP-0111,Taiwan MicroSystems Germany,SUP-0118,Apex Assembly Turkey,high,2,no
+PRD-028,Vega Retail Sensor 28,CMP-0010,Mechanical Housing Module 010,SUP-0008,Apex Electronics Poland,,,standard,2,yes
+PRD-029,Pulse Wearable Dock 29,CMP-0228,Mechanical Housing Module 228,SUP-0036,Shenzhen Cells Turkey,SUP-0008,Apex Electronics Poland,high,5,no
+PRD-029,Pulse Wearable Dock 29,CMP-0195,Sensor Module 195,SUP-0075,Delta Assembly Mexico,SUP-0115,Taiwan Assembly Germany,high,9,no
+PRD-029,Pulse Wearable Dock 29,CMP-0064,Display Module Module 064,SUP-0039,Korea Foundry Vietnam,SUP-0125,Summit Precision South Korea,critical,3,no
+PRD-029,Pulse Wearable Dock 29,CMP-0281,Battery Module 281,SUP-0092,Mekong Foundry South Korea,SUP-0020,Nordic Circuits Poland,standard,9,no
+PRD-029,Pulse Wearable Dock 29,CMP-0130,Power Electronics Module 130,SUP-0136,Apex Materials India 136,,,standard,2,yes
+PRD-029,Pulse Wearable Dock 29,CMP-0243,Sensor Module 243,SUP-0131,Mekong Components Poland,,,high,4,yes
+PRD-029,Pulse Wearable Dock 29,CMP-0360,Sensor Module 360,SUP-0101,Summit Foundry Taiwan,,,critical,5,yes
+PRD-029,Pulse Wearable Dock 29,CMP-0079,Semiconductor Module 079,SUP-0142,Nova Foundry China,SUP-0112,Mekong Foundry Poland,critical,12,no
+PRD-030,Vega Retail Sensor 30,CMP-0152,Printed Circuit Board Module 152,SUP-0065,Summit Assembly Poland,,,standard,1,yes
+PRD-030,Vega Retail Sensor 30,CMP-0083,Semiconductor Module 083,SUP-0033,Azura Assembly Malaysia,SUP-0147,Nova Electronics Taiwan,standard,11,no
+PRD-030,Vega Retail Sensor 30,CMP-0021,Battery Module 021,SUP-0100,Apex MicroSystems China,,,high,2,yes
+PRD-030,Vega Retail Sensor 30,CMP-0281,Battery Module 281,SUP-0105,Azura MicroSystems Poland,,,standard,12,yes
+PRD-030,Vega Retail Sensor 30,CMP-0255,Printed Circuit Board Module 255,SUP-0018,Nordic Materials India,SUP-0137,Shenzhen Assembly South Korea,critical,4,no
+PRD-030,Vega Retail Sensor 30,CMP-0107,Connectivity Module Module 107,SUP-0108,Korea Components Mexico 108,SUP-0088,Nova Precision Poland,standard,5,no
+PRD-030,Vega Retail Sensor 30,CMP-0353,Semiconductor Module 353,SUP-0133,Azura MicroSystems South Korea,,,standard,3,yes
+PRD-030,Vega Retail Sensor 30,CMP-0247,Power Electronics Module 247,SUP-0004,Korea Foundry China,SUP-0074,Korea Cells South Korea,standard,11,no
+PRD-031,Vega Retail Sensor 31,CMP-0219,Power Electronics Module 219,SUP-0031,Shenzhen Assembly Malaysia,SUP-0044,Delta Precision Poland 44,high,6,no
+PRD-031,Vega Retail Sensor 31,CMP-0379,Mechanical Housing Module 379,SUP-0078,Apex Optics South Korea,SUP-0140,Bharat MicroSystems Mexico 140,high,5,no
+PRD-031,Vega Retail Sensor 31,CMP-0060,Battery Module 060,SUP-0141,Vertex Assembly Taiwan,,,high,6,yes
+PRD-031,Vega Retail Sensor 31,CMP-0049,Display Module Module 049,SUP-0012,Summit Materials China,,,high,7,yes
+PRD-031,Vega Retail Sensor 31,CMP-0389,Power Electronics Module 389,SUP-0097,Azura Optics Vietnam,,,high,7,yes
+PRD-031,Vega Retail Sensor 31,CMP-0024,Semiconductor Module 024,SUP-0139,Shenzhen Materials Mexico,SUP-0150,Apex MicroSystems Vietnam,standard,3,no
+PRD-031,Vega Retail Sensor 31,CMP-0005,Semiconductor Module 005,SUP-0040,Vertex Materials Germany,,,standard,12,yes
+PRD-032,Pulse Wearable Dock 32,CMP-0082,Power Electronics Module 082,SUP-0127,Apex Cells India,SUP-0044,Delta Precision Poland 44,high,10,no
+PRD-032,Pulse Wearable Dock 32,CMP-0054,Semiconductor Module 054,SUP-0113,Mekong Circuits Vietnam 113,SUP-0149,Shenzhen Circuits Turkey,standard,1,no
+PRD-032,Pulse Wearable Dock 32,CMP-0214,Mechanical Housing Module 214,SUP-0026,Taiwan Components Mexico,SUP-0110,Shenzhen Electronics Vietnam,standard,2,no
+PRD-032,Pulse Wearable Dock 32,CMP-0303,Power Electronics Module 303,SUP-0085,Korea MicroSystems Turkey,SUP-0006,Delta Materials Vietnam,critical,5,no
+PRD-032,Pulse Wearable Dock 32,CMP-0248,Sensor Module 248,SUP-0115,Taiwan Assembly Germany,,,critical,12,yes
+PRD-033,Nova Health Monitor 33,CMP-0393,Power Electronics Module 393,SUP-0119,Bharat Electronics Germany,SUP-0136,Apex Materials India 136,high,2,no
+PRD-033,Nova Health Monitor 33,CMP-0381,Semiconductor Module 381,SUP-0120,Korea Assembly Mexico,SUP-0079,Shenzhen Optics Vietnam,critical,8,no
+PRD-033,Nova Health Monitor 33,CMP-0296,Battery Module 296,SUP-0082,Taiwan Electronics Poland,SUP-0128,Azura Components China,critical,7,no
+PRD-033,Nova Health Monitor 33,CMP-0371,Battery Module 371,SUP-0034,Apex Precision Germany,SUP-0114,Bharat Precision Taiwan,standard,10,no
+PRD-033,Nova Health Monitor 33,CMP-0290,Battery Module 290,SUP-0016,Shenzhen Components India,,,standard,3,yes
+PRD-033,Nova Health Monitor 33,CMP-0115,Battery Module 115,SUP-0105,Azura MicroSystems Poland,SUP-0100,Apex MicroSystems China,standard,3,no
+PRD-033,Nova Health Monitor 33,CMP-0343,Mechanical Housing Module 343,SUP-0019,Shenzhen Cells Vietnam,SUP-0070,Shenzhen Components Malaysia,high,4,no
+PRD-033,Nova Health Monitor 33,CMP-0174,Display Module Module 174,SUP-0047,Apex Circuits China,SUP-0007,Shenzhen Precision Malaysia,standard,9,no
+PRD-033,Nova Health Monitor 33,CMP-0266,Printed Circuit Board Module 266,SUP-0037,Vertex Foundry Mexico,SUP-0077,Mekong Circuits Turkey,standard,7,no
+PRD-034,Zenith Edge Server 34,CMP-0041,Sensor Module 041,SUP-0135,Bharat MicroSystems Malaysia,SUP-0057,Shenzhen Cells Malaysia,critical,2,no
+PRD-034,Zenith Edge Server 34,CMP-0236,Power Electronics Module 236,SUP-0116,Mekong Optics China,SUP-0002,Nova MicroSystems Vietnam,high,2,no
+PRD-034,Zenith Edge Server 34,CMP-0228,Mechanical Housing Module 228,SUP-0084,Mekong Precision South Korea,SUP-0132,Azura Foundry Turkey,high,9,no
+PRD-034,Zenith Edge Server 34,CMP-0294,Sensor Module 294,SUP-0015,Nordic MicroSystems Poland,SUP-0131,Mekong Components Poland,standard,10,no
+PRD-034,Zenith Edge Server 34,CMP-0230,Connectivity Module Module 230,SUP-0111,Taiwan MicroSystems Germany,SUP-0109,Shenzhen Components Mexico,high,9,no
+PRD-034,Zenith Edge Server 34,CMP-0046,Printed Circuit Board Module 046,SUP-0037,Vertex Foundry Mexico,SUP-0091,Mekong Cells Germany,standard,6,no
+PRD-035,Nova Health Monitor 35,CMP-0028,Battery Module 028,SUP-0123,Bharat Foundry China,SUP-0130,Bharat Electronics China,standard,6,no
+PRD-035,Nova Health Monitor 35,CMP-0115,Battery Module 115,SUP-0138,Apex Cells Poland,SUP-0020,Nordic Circuits Poland,standard,11,no
+PRD-035,Nova Health Monitor 35,CMP-0233,Semiconductor Module 233,SUP-0079,Shenzhen Optics Vietnam,,,high,6,yes
+PRD-035,Nova Health Monitor 35,CMP-0170,Battery Module 170,SUP-0128,Azura Components China,SUP-0068,Taiwan Components Taiwan,standard,9,no
+PRD-035,Nova Health Monitor 35,CMP-0287,Battery Module 287,SUP-0105,Azura MicroSystems Poland,,,standard,2,yes
+PRD-035,Nova Health Monitor 35,CMP-0393,Power Electronics Module 393,SUP-0004,Korea Foundry China,SUP-0116,Mekong Optics China,high,3,no
+PRD-035,Nova Health Monitor 35,CMP-0318,Mechanical Housing Module 318,SUP-0086,Shenzhen Electronics Taiwan,,,critical,10,yes
+PRD-036,Pulse Wearable Dock 36,CMP-0097,Power Electronics Module 097,SUP-0072,Summit Circuits India,,,critical,7,yes
+PRD-036,Pulse Wearable Dock 36,CMP-0062,Mechanical Housing Module 062,SUP-0013,Mekong Circuits Mexico,SUP-0134,Mekong Cells Turkey,standard,2,no
+PRD-036,Pulse Wearable Dock 36,CMP-0202,Sensor Module 202,SUP-0131,Mekong Components Poland,SUP-0083,Azura Materials China,high,11,no
+PRD-036,Pulse Wearable Dock 36,CMP-0111,Connectivity Module Module 111,SUP-0111,Taiwan MicroSystems Germany,SUP-0030,Bharat Cells Mexico,standard,8,no
+PRD-036,Pulse Wearable Dock 36,CMP-0235,Power Electronics Module 235,SUP-0002,Nova MicroSystems Vietnam,SUP-0004,Korea Foundry China,critical,9,no
+PRD-036,Pulse Wearable Dock 36,CMP-0098,Printed Circuit Board Module 098,SUP-0077,Mekong Circuits Turkey,SUP-0091,Mekong Cells Germany,standard,9,no
+PRD-037,Orion Smart Hub 37,CMP-0355,Battery Module 355,SUP-0087,Mekong Components Taiwan,SUP-0123,Bharat Foundry China,standard,6,no
+PRD-037,Orion Smart Hub 37,CMP-0297,Battery Module 297,SUP-0105,Azura MicroSystems Poland,SUP-0092,Mekong Foundry South Korea,high,10,no
+PRD-037,Orion Smart Hub 37,CMP-0089,Sensor Module 089,SUP-0126,Nova MicroSystems China,SUP-0055,Vertex Components South Korea,high,7,no
+PRD-037,Orion Smart Hub 37,CMP-0375,Printed Circuit Board Module 375,SUP-0065,Summit Assembly Poland,SUP-0091,Mekong Cells Germany,standard,3,no
+PRD-037,Orion Smart Hub 37,CMP-0066,Connectivity Module Module 066,SUP-0030,Bharat Cells Mexico,SUP-0121,Nova Circuits China,standard,12,no
+PRD-037,Orion Smart Hub 37,CMP-0054,Semiconductor Module 054,SUP-0142,Nova Foundry China,,,standard,12,yes
+PRD-038,Nova Health Monitor 38,CMP-0161,Mechanical Housing Module 161,SUP-0067,Nordic Precision India,SUP-0026,Taiwan Components Mexico,high,12,no
+PRD-038,Nova Health Monitor 38,CMP-0365,Connectivity Module Module 365,SUP-0118,Apex Assembly Turkey,SUP-0030,Bharat Cells Mexico,high,9,no
+PRD-038,Nova Health Monitor 38,CMP-0378,Printed Circuit Board Module 378,SUP-0093,Shenzhen MicroSystems Germany,SUP-0065,Summit Assembly Poland,high,12,no
+PRD-038,Nova Health Monitor 38,CMP-0284,Mechanical Housing Module 284,SUP-0024,Delta Materials Malaysia,SUP-0132,Azura Foundry Turkey,high,8,no
+PRD-038,Nova Health Monitor 38,CMP-0324,Printed Circuit Board Module 324,SUP-0107,Bharat Materials Malaysia,SUP-0137,Shenzhen Assembly South Korea,high,12,no
+PRD-038,Nova Health Monitor 38,CMP-0112,Power Electronics Module 112,SUP-0085,Korea MicroSystems Turkey,SUP-0124,Korea Assembly Germany,critical,5,no
+PRD-038,Nova Health Monitor 38,CMP-0103,Mechanical Housing Module 103,SUP-0086,Shenzhen Electronics Taiwan,SUP-0117,Nordic Foundry Mexico,standard,2,no
+PRD-038,Nova Health Monitor 38,CMP-0108,Battery Module 108,SUP-0005,Korea Electronics Mexico,SUP-0016,Shenzhen Components India,high,11,no
+PRD-038,Nova Health Monitor 38,CMP-0320,Semiconductor Module 320,SUP-0029,Vertex Materials Vietnam,,,high,3,yes
+PRD-039,Aster Industrial Gateway 39,CMP-0350,Printed Circuit Board Module 350,SUP-0093,Shenzhen MicroSystems Germany,,,critical,8,yes
+PRD-039,Aster Industrial Gateway 39,CMP-0129,Mechanical Housing Module 129,SUP-0024,Delta Materials Malaysia,SUP-0132,Azura Foundry Turkey,critical,4,no
+PRD-039,Aster Industrial Gateway 39,CMP-0075,Connectivity Module Module 075,SUP-0121,Nova Circuits China,SUP-0104,Summit Components Vietnam 104,standard,4,no
+PRD-039,Aster Industrial Gateway 39,CMP-0032,Semiconductor Module 032,SUP-0142,Nova Foundry China,SUP-0096,Apex Circuits Vietnam,critical,12,no
+PRD-039,Aster Industrial Gateway 39,CMP-0354,Printed Circuit Board Module 354,SUP-0137,Shenzhen Assembly South Korea,,,standard,7,yes
+PRD-039,Aster Industrial Gateway 39,CMP-0152,Printed Circuit Board Module 152,SUP-0077,Mekong Circuits Turkey,SUP-0137,Shenzhen Assembly South Korea,standard,6,no
+PRD-039,Aster Industrial Gateway 39,CMP-0105,Power Electronics Module 105,SUP-0124,Korea Assembly Germany,,,standard,12,yes
+PRD-040,Orion Smart Hub 40,CMP-0104,Connectivity Module Module 104,SUP-0121,Nova Circuits China,SUP-0144,Azura Components Vietnam,standard,10,no
+PRD-040,Orion Smart Hub 40,CMP-0318,Mechanical Housing Module 318,SUP-0132,Azura Foundry Turkey,SUP-0036,Shenzhen Cells Turkey,critical,12,no
+PRD-040,Orion Smart Hub 40,CMP-0400,Connectivity Module Module 400,SUP-0058,Vertex Cells Poland,,,critical,3,yes
+PRD-040,Orion Smart Hub 40,CMP-0227,Sensor Module 227,SUP-0115,Taiwan Assembly Germany,,,high,3,yes
+PRD-040,Orion Smart Hub 40,CMP-0116,Printed Circuit Board Module 116,SUP-0143,Korea Materials Germany 143,SUP-0077,Mekong Circuits Turkey,critical,1,no
+PRD-040,Orion Smart Hub 40,CMP-0325,Connectivity Module Module 325,SUP-0104,Summit Components Vietnam 104,,,critical,5,yes
+PRD-040,Orion Smart Hub 40,CMP-0361,Printed Circuit Board Module 361,SUP-0028,Shenzhen Assembly Mexico,,,critical,5,yes
+PRD-041,Helios Energy Controller 41,CMP-0170,Battery Module 170,SUP-0034,Apex Precision Germany,SUP-0123,Bharat Foundry China,standard,1,no
+PRD-041,Helios Energy Controller 41,CMP-0239,Power Electronics Module 239,SUP-0136,Apex Materials India 136,SUP-0069,Taiwan Optics Taiwan,high,8,no
+PRD-041,Helios Energy Controller 41,CMP-0364,Battery Module 364,SUP-0122,Nordic Assembly Poland,SUP-0017,Vertex Foundry China,high,12,no
+PRD-041,Helios Energy Controller 41,CMP-0080,Connectivity Module Module 080,SUP-0098,Shenzhen Optics Poland,SUP-0030,Bharat Cells Mexico,high,9,no
+PRD-041,Helios Energy Controller 41,CMP-0021,Battery Module 021,SUP-0017,Vertex Foundry China,SUP-0038,Delta Materials Turkey,high,7,no
+PRD-042,Aster Industrial Gateway 42,CMP-0275,Semiconductor Module 275,SUP-0096,Apex Circuits Vietnam,,,high,10,yes
+PRD-042,Aster Industrial Gateway 42,CMP-0207,Connectivity Module Module 207,SUP-0109,Shenzhen Components Mexico,SUP-0109,Shenzhen Components Mexico,high,11,no
+PRD-042,Aster Industrial Gateway 42,CMP-0048,Power Electronics Module 048,SUP-0002,Nova MicroSystems Vietnam,,,critical,6,yes
+PRD-042,Aster Industrial Gateway 42,CMP-0179,Battery Module 179,SUP-0094,Nova Optics Poland,,,critical,11,yes
+PRD-042,Aster Industrial Gateway 42,CMP-0114,Mechanical Housing Module 114,SUP-0140,Bharat MicroSystems Mexico 140,SUP-0059,Delta Cells Germany,critical,1,no
+PRD-042,Aster Industrial Gateway 42,CMP-0110,Power Electronics Module 110,SUP-0072,Summit Circuits India,SUP-0021,Mekong Materials Germany,critical,7,no
+PRD-042,Aster Industrial Gateway 42,CMP-0340,Sensor Module 340,SUP-0055,Vertex Components South Korea,SUP-0055,Vertex Components South Korea,high,1,no
+PRD-042,Aster Industrial Gateway 42,CMP-0170,Battery Module 170,SUP-0105,Azura MicroSystems Poland,SUP-0082,Taiwan Electronics Poland,standard,9,no
+PRD-042,Aster Industrial Gateway 42,CMP-0185,Mechanical Housing Module 185,SUP-0117,Nordic Foundry Mexico,SUP-0013,Mekong Circuits Mexico,standard,5,no
+PRD-043,Helios Energy Controller 43,CMP-0165,Connectivity Module Module 165,SUP-0109,Shenzhen Components Mexico,SUP-0118,Apex Assembly Turkey,high,2,no
+PRD-043,Helios Energy Controller 43,CMP-0264,Semiconductor Module 264,SUP-0073,Delta Components Mexico,SUP-0073,Delta Components Mexico,critical,11,no
+PRD-043,Helios Energy Controller 43,CMP-0043,Connectivity Module Module 043,SUP-0104,Summit Components Vietnam 104,SUP-0058,Vertex Cells Poland,high,9,no
+PRD-043,Helios Energy Controller 43,CMP-0050,Battery Module 050,SUP-0138,Apex Cells Poland,SUP-0141,Vertex Assembly Taiwan,high,7,no
+PRD-043,Helios Energy Controller 43,CMP-0086,Mechanical Housing Module 086,SUP-0019,Shenzhen Cells Vietnam,SUP-0026,Taiwan Components Mexico,critical,1,no
+PRD-043,Helios Energy Controller 43,CMP-0396,Power Electronics Module 396,SUP-0097,Azura Optics Vietnam,SUP-0004,Korea Foundry China,critical,2,no
+PRD-044,Nova Health Monitor 44,CMP-0028,Battery Module 028,SUP-0122,Nordic Assembly Poland,SUP-0062,Taiwan Cells Malaysia,standard,7,no
+PRD-044,Nova Health Monitor 44,CMP-0092,Mechanical Housing Module 092,SUP-0084,Mekong Precision South Korea,SUP-0084,Mekong Precision South Korea,high,7,no
+PRD-044,Nova Health Monitor 44,CMP-0129,Mechanical Housing Module 129,SUP-0070,Shenzhen Components Malaysia,,,critical,11,yes
+PRD-044,Nova Health Monitor 44,CMP-0286,Connectivity Module Module 286,SUP-0025,Mekong Assembly China,SUP-0118,Apex Assembly Turkey,high,12,no
+PRD-044,Nova Health Monitor 44,CMP-0037,Battery Module 037,SUP-0123,Bharat Foundry China,,,standard,12,yes
+PRD-045,Vega Retail Sensor 45,CMP-0024,Semiconductor Module 024,SUP-0149,Shenzhen Circuits Turkey,,,standard,8,yes
+PRD-045,Vega Retail Sensor 45,CMP-0359,Semiconductor Module 359,SUP-0113,Mekong Circuits Vietnam 113,SUP-0001,Summit Foundry Vietnam,critical,8,no
+PRD-045,Vega Retail Sensor 45,CMP-0038,Printed Circuit Board Module 038,SUP-0028,Shenzhen Assembly Mexico,SUP-0028,Shenzhen Assembly Mexico,standard,12,no
+PRD-045,Vega Retail Sensor 45,CMP-0184,Printed Circuit Board Module 184,SUP-0077,Mekong Circuits Turkey,SUP-0093,Shenzhen MicroSystems Germany,critical,5,no
+PRD-045,Vega Retail Sensor 45,CMP-0258,Mechanical Housing Module 258,SUP-0026,Taiwan Components Mexico,,,high,12,yes
+PRD-045,Vega Retail Sensor 45,CMP-0055,Connectivity Module Module 055,SUP-0118,Apex Assembly Turkey,,,standard,1,yes
+PRD-045,Vega Retail Sensor 45,CMP-0149,Sensor Module 149,SUP-0090,Shenzhen Foundry Poland,SUP-0042,Nordic Assembly Taiwan,high,2,no
+PRD-045,Vega Retail Sensor 45,CMP-0352,Semiconductor Module 352,SUP-0029,Vertex Materials Vietnam,,,standard,10,yes
+PRD-045,Vega Retail Sensor 45,CMP-0155,Battery Module 155,SUP-0087,Mekong Components Taiwan,SUP-0017,Vertex Foundry China,standard,5,no
+PRD-046,Aster Industrial Gateway 46,CMP-0384,Connectivity Module Module 384,SUP-0118,Apex Assembly Turkey,SUP-0030,Bharat Cells Mexico,high,3,no
+PRD-046,Aster Industrial Gateway 46,CMP-0380,Battery Module 380,SUP-0038,Delta Materials Turkey,,,high,5,yes
+PRD-046,Aster Industrial Gateway 46,CMP-0372,Display Module Module 372,SUP-0023,Azura Cells Malaysia,,,critical,11,yes
+PRD-046,Aster Industrial Gateway 46,CMP-0177,Battery Module 177,SUP-0122,Nordic Assembly Poland,SUP-0114,Bharat Precision Taiwan,critical,8,no
+PRD-046,Aster Industrial Gateway 46,CMP-0109,Sensor Module 109,SUP-0115,Taiwan Assembly Germany,SUP-0055,Vertex Components South Korea,high,11,no
+PRD-046,Aster Industrial Gateway 46,CMP-0212,Sensor Module 212,SUP-0032,Mekong MicroSystems Taiwan,,,high,4,yes
+PRD-047,Nova Health Monitor 47,CMP-0250,Connectivity Module Module 250,SUP-0111,Taiwan MicroSystems Germany,,,critical,4,yes
+PRD-047,Nova Health Monitor 47,CMP-0170,Battery Module 170,SUP-0076,Vertex MicroSystems Taiwan,SUP-0076,Vertex MicroSystems Taiwan,standard,10,no
+PRD-047,Nova Health Monitor 47,CMP-0183,Battery Module 183,SUP-0130,Bharat Electronics China,,,high,10,yes
+PRD-047,Nova Health Monitor 47,CMP-0066,Connectivity Module Module 066,SUP-0030,Bharat Cells Mexico,SUP-0098,Shenzhen Optics Poland,standard,6,no
+PRD-047,Nova Health Monitor 47,CMP-0344,Printed Circuit Board Module 344,SUP-0077,Mekong Circuits Turkey,,,critical,6,yes
+PRD-047,Nova Health Monitor 47,CMP-0336,Display Module Module 336,SUP-0035,Azura Optics Turkey,SUP-0125,Summit Precision South Korea,standard,12,no
+PRD-047,Nova Health Monitor 47,CMP-0121,Battery Module 121,SUP-0128,Azura Components China,SUP-0082,Taiwan Electronics Poland,standard,3,no
+PRD-047,Nova Health Monitor 47,CMP-0052,Mechanical Housing Module 052,SUP-0070,Shenzhen Components Malaysia,SUP-0089,Bharat Materials Turkey,high,8,no
+PRD-047,Nova Health Monitor 47,CMP-0146,Connectivity Module Module 146,SUP-0098,Shenzhen Optics Poland,SUP-0108,Korea Components Mexico 108,standard,9,no
+PRD-048,Pulse Wearable Dock 48,CMP-0090,Printed Circuit Board Module 090,SUP-0028,Shenzhen Assembly Mexico,SUP-0037,Vertex Foundry Mexico,standard,5,no
+PRD-048,Pulse Wearable Dock 48,CMP-0331,Mechanical Housing Module 331,SUP-0019,Shenzhen Cells Vietnam,SUP-0008,Apex Electronics Poland,critical,9,no
+PRD-048,Pulse Wearable Dock 48,CMP-0311,Semiconductor Module 311,SUP-0150,Apex MicroSystems Vietnam,,,standard,10,yes
+PRD-048,Pulse Wearable Dock 48,CMP-0042,Mechanical Housing Module 042,SUP-0134,Mekong Cells Turkey,SUP-0134,Mekong Cells Turkey,high,4,no
+PRD-048,Pulse Wearable Dock 48,CMP-0144,Power Electronics Module 144,SUP-0004,Korea Foundry China,SUP-0124,Korea Assembly Germany,standard,9,no
+PRD-049,Pulse Wearable Dock 49,CMP-0335,Sensor Module 335,SUP-0126,Nova MicroSystems China,SUP-0042,Nordic Assembly Taiwan,standard,8,no
+PRD-049,Pulse Wearable Dock 49,CMP-0397,Power Electronics Module 397,SUP-0119,Bharat Electronics Germany,SUP-0081,Vertex Electronics Germany,standard,6,no
+PRD-049,Pulse Wearable Dock 49,CMP-0077,Semiconductor Module 077,SUP-0142,Nova Foundry China,,,high,4,yes
+PRD-049,Pulse Wearable Dock 49,CMP-0188,Printed Circuit Board Module 188,SUP-0107,Bharat Materials Malaysia,SUP-0093,Shenzhen MicroSystems Germany,high,3,no
+PRD-049,Pulse Wearable Dock 49,CMP-0201,Mechanical Housing Module 201,SUP-0089,Bharat Materials Turkey,,,critical,10,yes
+PRD-049,Pulse Wearable Dock 49,CMP-0115,Battery Module 115,SUP-0122,Nordic Assembly Poland,SUP-0034,Apex Precision Germany,standard,12,no
+PRD-049,Pulse Wearable Dock 49,CMP-0396,Power Electronics Module 396,SUP-0116,Mekong Optics China,SUP-0004,Korea Foundry China,critical,4,no
+PRD-049,Pulse Wearable Dock 49,CMP-0302,Connectivity Module Module 302,SUP-0144,Azura Components Vietnam,SUP-0025,Mekong Assembly China,standard,5,no
+PRD-050,Pulse Wearable Dock 50,CMP-0120,Printed Circuit Board Module 120,SUP-0091,Mekong Cells Germany,SUP-0014,Vertex Components China,high,1,no
+PRD-050,Pulse Wearable Dock 50,CMP-0022,Printed Circuit Board Module 022,SUP-0137,Shenzhen Assembly South Korea,,,high,12,yes
+PRD-050,Pulse Wearable Dock 50,CMP-0343,Mechanical Housing Module 343,SUP-0117,Nordic Foundry Mexico,SUP-0064,Bharat Optics Turkey,high,12,no
+PRD-050,Pulse Wearable Dock 50,CMP-0106,Printed Circuit Board Module 106,SUP-0045,Taiwan Circuits India,SUP-0107,Bharat Materials Malaysia,standard,3,no
+PRD-050,Pulse Wearable Dock 50,CMP-0266,Printed Circuit Board Module 266,SUP-0077,Mekong Circuits Turkey,SUP-0065,Summit Assembly Poland,standard,10,no
+PRD-050,Pulse Wearable Dock 50,CMP-0185,Mechanical Housing Module 185,SUP-0019,Shenzhen Cells Vietnam,SUP-0084,Mekong Precision South Korea,standard,4,no
+PRD-050,Pulse Wearable Dock 50,CMP-0199,Mechanical Housing Module 199,SUP-0117,Nordic Foundry Mexico,SUP-0078,Apex Optics South Korea,standard,8,no
+PRD-051,Atlas Robotics Kit 51,CMP-0310,Display Module Module 310,SUP-0066,Shenzhen Assembly Poland,SUP-0023,Azura Cells Malaysia,standard,3,no
+PRD-051,Atlas Robotics Kit 51,CMP-0004,Battery Module 004,SUP-0038,Delta Materials Turkey,,,high,10,yes
+PRD-051,Atlas Robotics Kit 51,CMP-0257,Connectivity Module Module 257,SUP-0121,Nova Circuits China,SUP-0118,Apex Assembly Turkey,standard,4,no
+PRD-051,Atlas Robotics Kit 51,CMP-0072,Semiconductor Module 072,SUP-0120,Korea Assembly Mexico,SUP-0040,Vertex Materials Germany,high,8,no
+PRD-051,Atlas Robotics Kit 51,CMP-0226,Mechanical Housing Module 226,SUP-0110,Shenzhen Electronics Vietnam,SUP-0134,Mekong Cells Turkey,high,3,no
+PRD-051,Atlas Robotics Kit 51,CMP-0085,Sensor Module 085,SUP-0115,Taiwan Assembly Germany,SUP-0015,Nordic MicroSystems Poland,high,4,no
+PRD-051,Atlas Robotics Kit 51,CMP-0118,Connectivity Module Module 118,SUP-0022,Nordic Assembly India,,,high,10,yes
+PRD-051,Atlas Robotics Kit 51,CMP-0040,Connectivity Module Module 040,SUP-0030,Bharat Cells Mexico,,,standard,9,yes
+PRD-052,Atlas Robotics Kit 52,CMP-0294,Sensor Module 294,SUP-0042,Nordic Assembly Taiwan,SUP-0075,Delta Assembly Mexico,standard,10,no
+PRD-052,Atlas Robotics Kit 52,CMP-0076,Mechanical Housing Module 076,SUP-0134,Mekong Cells Turkey,SUP-0067,Nordic Precision India,standard,2,no
+PRD-052,Atlas Robotics Kit 52,CMP-0029,Power Electronics Module 029,SUP-0050,Korea Foundry Taiwan,SUP-0116,Mekong Optics China,standard,8,no
+PRD-052,Atlas Robotics Kit 52,CMP-0086,Mechanical Housing Module 086,SUP-0027,Delta Cells Mexico,,,critical,7,yes
+PRD-052,Atlas Robotics Kit 52,CMP-0133,Mechanical Housing Module 133,SUP-0140,Bharat MicroSystems Mexico 140,,,critical,10,yes
+PRD-053,Helios Energy Controller 53,CMP-0320,Semiconductor Module 320,SUP-0103,Apex Foundry Vietnam,SUP-0149,Shenzhen Circuits Turkey,high,10,no
+PRD-053,Helios Energy Controller 53,CMP-0338,Power Electronics Module 338,SUP-0006,Delta Materials Vietnam,,,standard,7,yes
+PRD-053,Helios Energy Controller 53,CMP-0262,Semiconductor Module 262,SUP-0052,Delta Optics South Korea,,,standard,4,yes
+PRD-053,Helios Energy Controller 53,CMP-0136,Connectivity Module Module 136,SUP-0109,Shenzhen Components Mexico,SUP-0109,Shenzhen Components Mexico,standard,11,no
+PRD-053,Helios Energy Controller 53,CMP-0086,Mechanical Housing Module 086,SUP-0086,Shenzhen Electronics Taiwan,SUP-0140,Bharat MicroSystems Mexico 140,critical,2,no
+PRD-053,Helios Energy Controller 53,CMP-0371,Battery Module 371,SUP-0038,Delta Materials Turkey,SUP-0123,Bharat Foundry China,standard,10,no
+PRD-054,Nova Health Monitor 54,CMP-0273,Power Electronics Module 273,SUP-0116,Mekong Optics China,SUP-0136,Apex Materials India 136,standard,9,no
+PRD-054,Nova Health Monitor 54,CMP-0258,Mechanical Housing Module 258,SUP-0008,Apex Electronics Poland,SUP-0086,Shenzhen Electronics Taiwan,high,9,no
+PRD-054,Nova Health Monitor 54,CMP-0386,Battery Module 386,SUP-0092,Mekong Foundry South Korea,,,standard,1,yes
+PRD-054,Nova Health Monitor 54,CMP-0061,Display Module Module 061,SUP-0125,Summit Precision South Korea,SUP-0035,Azura Optics Turkey,standard,8,no
+PRD-054,Nova Health Monitor 54,CMP-0048,Power Electronics Module 048,SUP-0081,Vertex Electronics Germany,,,critical,12,yes
+PRD-055,Orion Smart Hub 55,CMP-0051,Power Electronics Module 051,SUP-0136,Apex Materials India 136,SUP-0085,Korea MicroSystems Turkey,critical,5,no
+PRD-055,Orion Smart Hub 55,CMP-0218,Battery Module 218,SUP-0041,Summit Materials Vietnam,,,critical,12,yes
+PRD-055,Orion Smart Hub 55,CMP-0069,Connectivity Module Module 069,SUP-0144,Azura Components Vietnam,,,standard,9,yes
+PRD-055,Orion Smart Hub 55,CMP-0131,Power Electronics Module 131,SUP-0021,Mekong Materials Germany,SUP-0081,Vertex Electronics Germany,standard,11,no
+PRD-055,Orion Smart Hub 55,CMP-0245,Connectivity Module Module 245,SUP-0058,Vertex Cells Poland,SUP-0098,Shenzhen Optics Poland,high,7,no
+PRD-055,Orion Smart Hub 55,CMP-0393,Power Electronics Module 393,SUP-0074,Korea Cells South Korea,,,high,7,yes
+PRD-055,Orion Smart Hub 55,CMP-0120,Printed Circuit Board Module 120,SUP-0137,Shenzhen Assembly South Korea,SUP-0045,Taiwan Circuits India,high,9,no
+PRD-055,Orion Smart Hub 55,CMP-0043,Connectivity Module Module 043,SUP-0104,Summit Components Vietnam 104,SUP-0111,Taiwan MicroSystems Germany,high,5,no
+PRD-055,Orion Smart Hub 55,CMP-0146,Connectivity Module Module 146,SUP-0118,Apex Assembly Turkey,SUP-0058,Vertex Cells Poland,standard,7,no
+PRD-056,Zenith Edge Server 56,CMP-0286,Connectivity Module Module 286,SUP-0098,Shenzhen Optics Poland,SUP-0104,Summit Components Vietnam 104,high,12,no
+PRD-056,Zenith Edge Server 56,CMP-0248,Sensor Module 248,SUP-0042,Nordic Assembly Taiwan,SUP-0115,Taiwan Assembly Germany,critical,2,no
+PRD-056,Zenith Edge Server 56,CMP-0092,Mechanical Housing Module 092,SUP-0059,Delta Cells Germany,SUP-0027,Delta Cells Mexico,high,2,no
+PRD-056,Zenith Edge Server 56,CMP-0190,Semiconductor Module 190,SUP-0073,Delta Components Mexico,SUP-0103,Apex Foundry Vietnam,standard,9,no
+PRD-056,Zenith Edge Server 56,CMP-0287,Battery Module 287,SUP-0123,Bharat Foundry China,SUP-0138,Apex Cells Poland,standard,1,no
+PRD-056,Zenith Edge Server 56,CMP-0285,Display Module Module 285,SUP-0012,Summit Materials China,SUP-0102,Taiwan Precision South Korea,standard,1,no
+PRD-056,Zenith Edge Server 56,CMP-0130,Power Electronics Module 130,SUP-0006,Delta Materials Vietnam,SUP-0116,Mekong Optics China,standard,10,no
+PRD-056,Zenith Edge Server 56,CMP-0158,Semiconductor Module 158,SUP-0120,Korea Assembly Mexico,,,critical,5,yes
+PRD-056,Zenith Edge Server 56,CMP-0296,Battery Module 296,SUP-0053,Taiwan Optics Germany,,,critical,10,yes
+PRD-057,Vega Retail Sensor 57,CMP-0371,Battery Module 371,SUP-0105,Azura MicroSystems Poland,,,standard,10,yes
+PRD-057,Vega Retail Sensor 57,CMP-0197,Connectivity Module Module 197,SUP-0022,Nordic Assembly India,SUP-0145,Bharat Cells Taiwan,critical,3,no
+PRD-057,Vega Retail Sensor 57,CMP-0206,Display Module Module 206,SUP-0102,Taiwan Precision South Korea,SUP-0003,Summit Materials Malaysia,standard,4,no
+PRD-057,Vega Retail Sensor 57,CMP-0315,Power Electronics Module 315,SUP-0119,Bharat Electronics Germany,,,high,1,yes
+PRD-057,Vega Retail Sensor 57,CMP-0336,Display Module Module 336,SUP-0099,Vertex Cells Vietnam,SUP-0125,Summit Precision South Korea,standard,4,no
+PRD-058,Vega Retail Sensor 58,CMP-0087,Mechanical Housing Module 087,SUP-0064,Bharat Optics Turkey,SUP-0078,Apex Optics South Korea,high,11,no
+PRD-058,Vega Retail Sensor 58,CMP-0346,Display Module Module 346,SUP-0049,Mekong Assembly Poland,SUP-0023,Azura Cells Malaysia,high,9,no
+PRD-058,Vega Retail Sensor 58,CMP-0019,Mechanical Housing Module 019,SUP-0008,Apex Electronics Poland,SUP-0019,Shenzhen Cells Vietnam,standard,2,no
+PRD-058,Vega Retail Sensor 58,CMP-0185,Mechanical Housing Module 185,SUP-0132,Azura Foundry Turkey,,,standard,9,yes
+PRD-058,Vega Retail Sensor 58,CMP-0123,Power Electronics Module 123,SUP-0127,Apex Cells India,,,standard,5,yes
+PRD-058,Vega Retail Sensor 58,CMP-0336,Display Module Module 336,SUP-0035,Azura Optics Turkey,SUP-0023,Azura Cells Malaysia,standard,8,no
+PRD-058,Vega Retail Sensor 58,CMP-0001,Printed Circuit Board Module 001,SUP-0077,Mekong Circuits Turkey,SUP-0045,Taiwan Circuits India,high,3,no
+PRD-058,Vega Retail Sensor 58,CMP-0081,Mechanical Housing Module 081,SUP-0086,Shenzhen Electronics Taiwan,SUP-0132,Azura Foundry Turkey,high,2,no
+PRD-058,Vega Retail Sensor 58,CMP-0045,Semiconductor Module 045,SUP-0142,Nova Foundry China,,,critical,2,yes
+PRD-059,Orion Smart Hub 59,CMP-0132,Semiconductor Module 132,SUP-0079,Shenzhen Optics Vietnam,SUP-0133,Azura MicroSystems South Korea,high,11,no
+PRD-059,Orion Smart Hub 59,CMP-0276,Connectivity Module Module 276,SUP-0108,Korea Components Mexico 108,SUP-0145,Bharat Cells Taiwan,standard,1,no
+PRD-059,Orion Smart Hub 59,CMP-0295,Sensor Module 295,SUP-0083,Azura Materials China,,,standard,2,yes
+PRD-059,Orion Smart Hub 59,CMP-0129,Mechanical Housing Module 129,SUP-0084,Mekong Precision South Korea,SUP-0059,Delta Cells Germany,critical,11,no
+PRD-059,Orion Smart Hub 59,CMP-0356,Display Module Module 356,SUP-0125,Summit Precision South Korea,,,high,6,yes
+PRD-059,Orion Smart Hub 59,CMP-0227,Sensor Module 227,SUP-0075,Delta Assembly Mexico,SUP-0090,Shenzhen Foundry Poland,high,9,no
+PRD-059,Orion Smart Hub 59,CMP-0194,Sensor Module 194,SUP-0015,Nordic MicroSystems Poland,SUP-0055,Vertex Components South Korea,high,4,no
+PRD-059,Orion Smart Hub 59,CMP-0289,Printed Circuit Board Module 289,SUP-0045,Taiwan Circuits India,,,critical,11,yes
+PRD-059,Orion Smart Hub 59,CMP-0248,Sensor Module 248,SUP-0126,Nova MicroSystems China,SUP-0032,Mekong MicroSystems Taiwan,critical,9,no
+PRD-060,Pulse Wearable Dock 60,CMP-0244,Sensor Module 244,SUP-0042,Nordic Assembly Taiwan,SUP-0115,Taiwan Assembly Germany,standard,4,no
+PRD-060,Pulse Wearable Dock 60,CMP-0161,Mechanical Housing Module 161,SUP-0110,Shenzhen Electronics Vietnam,SUP-0059,Delta Cells Germany,high,12,no
+PRD-060,Pulse Wearable Dock 60,CMP-0182,Printed Circuit Board Module 182,SUP-0037,Vertex Foundry Mexico,SUP-0037,Vertex Foundry Mexico,high,4,no
+PRD-060,Pulse Wearable Dock 60,CMP-0112,Power Electronics Module 112,SUP-0050,Korea Foundry Taiwan,SUP-0136,Apex Materials India 136,critical,6,no
+PRD-060,Pulse Wearable Dock 60,CMP-0294,Sensor Module 294,SUP-0042,Nordic Assembly Taiwan,SUP-0032,Mekong MicroSystems Taiwan,standard,2,no
+PRD-060,Pulse Wearable Dock 60,CMP-0138,Connectivity Module Module 138,SUP-0118,Apex Assembly Turkey,SUP-0108,Korea Components Mexico 108,critical,10,no
+PRD-061,Aster Industrial Gateway 61,CMP-0392,Battery Module 392,SUP-0123,Bharat Foundry China,,,critical,10,yes
+PRD-061,Aster Industrial Gateway 61,CMP-0278,Sensor Module 278,SUP-0135,Bharat MicroSystems Malaysia,,,standard,3,yes
+PRD-061,Aster Industrial Gateway 61,CMP-0022,Printed Circuit Board Module 022,SUP-0093,Shenzhen MicroSystems Germany,,,high,4,yes
+PRD-061,Aster Industrial Gateway 61,CMP-0247,Power Electronics Module 247,SUP-0127,Apex Cells India,,,standard,9,yes
+PRD-061,Aster Industrial Gateway 61,CMP-0191,Battery Module 191,SUP-0092,Mekong Foundry South Korea,SUP-0114,Bharat Precision Taiwan,critical,1,no
+PRD-062,Orion Smart Hub 62,CMP-0178,Connectivity Module Module 178,SUP-0108,Korea Components Mexico 108,,,high,1,yes
+PRD-062,Orion Smart Hub 62,CMP-0202,Sensor Module 202,SUP-0015,Nordic MicroSystems Poland,SUP-0075,Delta Assembly Mexico,high,10,no
+PRD-062,Orion Smart Hub 62,CMP-0352,Semiconductor Module 352,SUP-0040,Vertex Materials Germany,,,standard,10,yes
+PRD-062,Orion Smart Hub 62,CMP-0398,Printed Circuit Board Module 398,SUP-0045,Taiwan Circuits India,,,standard,5,yes
+PRD-062,Orion Smart Hub 62,CMP-0090,Printed Circuit Board Module 090,SUP-0037,Vertex Foundry Mexico,,,standard,10,yes
+PRD-062,Orion Smart Hub 62,CMP-0235,Power Electronics Module 235,SUP-0072,Summit Circuits India,,,critical,8,yes
+PRD-062,Orion Smart Hub 62,CMP-0062,Mechanical Housing Module 062,SUP-0086,Shenzhen Electronics Taiwan,,,standard,12,yes
+PRD-062,Orion Smart Hub 62,CMP-0358,Connectivity Module Module 358,SUP-0144,Azura Components Vietnam,,,critical,7,yes
+PRD-062,Orion Smart Hub 62,CMP-0266,Printed Circuit Board Module 266,SUP-0045,Taiwan Circuits India,SUP-0107,Bharat Materials Malaysia,standard,3,no
+PRD-063,Nova Health Monitor 63,CMP-0352,Semiconductor Module 352,SUP-0073,Delta Components Mexico,,,standard,12,yes
+PRD-063,Nova Health Monitor 63,CMP-0118,Connectivity Module Module 118,SUP-0030,Bharat Cells Mexico,SUP-0022,Nordic Assembly India,high,3,no
+PRD-063,Nova Health Monitor 63,CMP-0052,Mechanical Housing Module 052,SUP-0086,Shenzhen Electronics Taiwan,SUP-0117,Nordic Foundry Mexico,high,9,no
+PRD-063,Nova Health Monitor 63,CMP-0370,Connectivity Module Module 370,SUP-0121,Nova Circuits China,,,standard,8,yes
+PRD-063,Nova Health Monitor 63,CMP-0139,Semiconductor Module 139,SUP-0096,Apex Circuits Vietnam,,,standard,10,yes
+PRD-063,Nova Health Monitor 63,CMP-0121,Battery Module 121,SUP-0016,Shenzhen Components India,SUP-0138,Apex Cells Poland,standard,3,no
+PRD-063,Nova Health Monitor 63,CMP-0285,Display Module Module 285,SUP-0007,Shenzhen Precision Malaysia,,,standard,5,yes
+PRD-063,Nova Health Monitor 63,CMP-0222,Semiconductor Module 222,SUP-0139,Shenzhen Materials Mexico,SUP-0040,Vertex Materials Germany,critical,8,no
+PRD-063,Nova Health Monitor 63,CMP-0196,Printed Circuit Board Module 196,SUP-0143,Korea Materials Germany 143,,,high,6,yes
+PRD-064,Aster Industrial Gateway 64,CMP-0287,Battery Module 287,SUP-0082,Taiwan Electronics Poland,SUP-0123,Bharat Foundry China,standard,4,no
+PRD-064,Aster Industrial Gateway 64,CMP-0286,Connectivity Module Module 286,SUP-0111,Taiwan MicroSystems Germany,SUP-0118,Apex Assembly Turkey,high,9,no
+PRD-064,Aster Industrial Gateway 64,CMP-0132,Semiconductor Module 132,SUP-0060,Mekong Assembly Malaysia,SUP-0096,Apex Circuits Vietnam,high,6,no
+PRD-064,Aster Industrial Gateway 64,CMP-0177,Battery Module 177,SUP-0076,Vertex MicroSystems Taiwan,SUP-0100,Apex MicroSystems China,critical,12,no
+PRD-064,Aster Industrial Gateway 64,CMP-0011,Printed Circuit Board Module 011,SUP-0091,Mekong Cells Germany,SUP-0077,Mekong Circuits Turkey,high,10,no
+PRD-064,Aster Industrial Gateway 64,CMP-0211,Connectivity Module Module 211,SUP-0088,Nova Precision Poland,SUP-0030,Bharat Cells Mexico,high,3,no
+PRD-064,Aster Industrial Gateway 64,CMP-0063,Display Module Module 063,SUP-0102,Taiwan Precision South Korea,SUP-0047,Apex Circuits China,critical,7,no
+PRD-065,Nova Health Monitor 65,CMP-0293,Connectivity Module Module 293,SUP-0118,Apex Assembly Turkey,,,high,5,yes
+PRD-065,Nova Health Monitor 65,CMP-0208,Connectivity Module Module 208,SUP-0111,Taiwan MicroSystems Germany,SUP-0088,Nova Precision Poland,critical,8,no
+PRD-065,Nova Health Monitor 65,CMP-0037,Battery Module 037,SUP-0082,Taiwan Electronics Poland,SUP-0105,Azura MicroSystems Poland,standard,8,no
+PRD-065,Nova Health Monitor 65,CMP-0041,Sensor Module 041,SUP-0075,Delta Assembly Mexico,,,critical,1,yes
+PRD-065,Nova Health Monitor 65,CMP-0083,Semiconductor Module 083,SUP-0052,Delta Optics South Korea,SUP-0095,Shenzhen Assembly China,standard,12,no
+PRD-065,Nova Health Monitor 65,CMP-0176,Connectivity Module Module 176,SUP-0121,Nova Circuits China,SUP-0058,Vertex Cells Poland,standard,3,no
+PRD-065,Nova Health Monitor 65,CMP-0117,Connectivity Module Module 117,SUP-0104,Summit Components Vietnam 104,,,standard,2,yes
+PRD-065,Nova Health Monitor 65,CMP-0161,Mechanical Housing Module 161,SUP-0110,Shenzhen Electronics Vietnam,SUP-0008,Apex Electronics Poland,high,7,no
+PRD-065,Nova Health Monitor 65,CMP-0163,Mechanical Housing Module 163,SUP-0117,Nordic Foundry Mexico,SUP-0019,Shenzhen Cells Vietnam,standard,2,no
+PRD-066,Zenith Edge Server 66,CMP-0317,Display Module Module 317,SUP-0035,Azura Optics Turkey,SUP-0061,Summit Components Turkey,standard,11,no
+PRD-066,Zenith Edge Server 66,CMP-0080,Connectivity Module Module 080,SUP-0030,Bharat Cells Mexico,,,high,3,yes
+PRD-066,Zenith Edge Server 66,CMP-0044,Semiconductor Module 044,SUP-0001,Summit Foundry Vietnam,,,critical,6,yes
+PRD-066,Zenith Edge Server 66,CMP-0336,Display Module Module 336,SUP-0047,Apex Circuits China,SUP-0061,Summit Components Turkey,standard,9,no
+PRD-066,Zenith Edge Server 66,CMP-0200,Mechanical Housing Module 200,SUP-0064,Bharat Optics Turkey,SUP-0026,Taiwan Components Mexico,high,12,no
+PRD-066,Zenith Edge Server 66,CMP-0159,Mechanical Housing Module 159,SUP-0132,Azura Foundry Turkey,,,high,10,yes
+PRD-066,Zenith Edge Server 66,CMP-0118,Connectivity Module Module 118,SUP-0108,Korea Components Mexico 108,SUP-0118,Apex Assembly Turkey,high,10,no
+PRD-067,Pulse Wearable Dock 67,CMP-0269,Sensor Module 269,SUP-0131,Mekong Components Poland,,,standard,5,yes
+PRD-067,Pulse Wearable Dock 67,CMP-0328,Power Electronics Module 328,SUP-0074,Korea Cells South Korea,SUP-0031,Shenzhen Assembly Malaysia,high,5,no
+PRD-067,Pulse Wearable Dock 67,CMP-0274,Printed Circuit Board Module 274,SUP-0014,Vertex Components China,,,high,3,yes
+PRD-067,Pulse Wearable Dock 67,CMP-0159,Mechanical Housing Module 159,SUP-0078,Apex Optics South Korea,,,high,9,yes
+PRD-067,Pulse Wearable Dock 67,CMP-0178,Connectivity Module Module 178,SUP-0022,Nordic Assembly India,SUP-0108,Korea Components Mexico 108,high,8,no
+PRD-067,Pulse Wearable Dock 67,CMP-0247,Power Electronics Module 247,SUP-0069,Taiwan Optics Taiwan,,,standard,7,yes
+PRD-067,Pulse Wearable Dock 67,CMP-0277,Sensor Module 277,SUP-0131,Mekong Components Poland,,,high,4,yes
+PRD-067,Pulse Wearable Dock 67,CMP-0117,Connectivity Module Module 117,SUP-0144,Azura Components Vietnam,,,standard,6,yes
+PRD-068,Nova Health Monitor 68,CMP-0211,Connectivity Module Module 211,SUP-0121,Nova Circuits China,SUP-0104,Summit Components Vietnam 104,high,7,no
+PRD-068,Nova Health Monitor 68,CMP-0288,Semiconductor Module 288,SUP-0079,Shenzhen Optics Vietnam,,,standard,7,yes
+PRD-068,Nova Health Monitor 68,CMP-0224,Printed Circuit Board Module 224,SUP-0137,Shenzhen Assembly South Korea,,,high,10,yes
+PRD-068,Nova Health Monitor 68,CMP-0203,Battery Module 203,SUP-0138,Apex Cells Poland,SUP-0068,Taiwan Components Taiwan,critical,11,no
+PRD-068,Nova Health Monitor 68,CMP-0128,Printed Circuit Board Module 128,SUP-0143,Korea Materials Germany 143,SUP-0045,Taiwan Circuits India,standard,7,no
+PRD-068,Nova Health Monitor 68,CMP-0084,Battery Module 084,SUP-0041,Summit Materials Vietnam,SUP-0038,Delta Materials Turkey,high,3,no
+PRD-069,Atlas Robotics Kit 69,CMP-0057,Display Module Module 057,SUP-0099,Vertex Cells Vietnam,SUP-0047,Apex Circuits China,high,1,no
+PRD-069,Atlas Robotics Kit 69,CMP-0327,Connectivity Module Module 327,SUP-0030,Bharat Cells Mexico,,,standard,9,yes
+PRD-069,Atlas Robotics Kit 69,CMP-0234,Display Module Module 234,SUP-0003,Summit Materials Malaysia,,,critical,2,yes
+PRD-069,Atlas Robotics Kit 69,CMP-0317,Display Module Module 317,SUP-0046,Vertex Precision Taiwan,,,standard,12,yes
+PRD-069,Atlas Robotics Kit 69,CMP-0232,Power Electronics Module 232,SUP-0097,Azura Optics Vietnam,SUP-0051,Korea MicroSystems Germany 51,critical,2,no
+PRD-069,Atlas Robotics Kit 69,CMP-0140,Mechanical Housing Module 140,SUP-0026,Taiwan Components Mexico,,,standard,4,yes
+PRD-069,Atlas Robotics Kit 69,CMP-0359,Semiconductor Module 359,SUP-0103,Apex Foundry Vietnam,SUP-0139,Shenzhen Materials Mexico,critical,6,no
+PRD-070,Vega Retail Sensor 70,CMP-0357,Semiconductor Module 357,SUP-0113,Mekong Circuits Vietnam 113,,,standard,8,yes
+PRD-070,Vega Retail Sensor 70,CMP-0017,Power Electronics Module 017,SUP-0044,Delta Precision Poland 44,,,high,5,yes
+PRD-070,Vega Retail Sensor 70,CMP-0170,Battery Module 170,SUP-0087,Mekong Components Taiwan,SUP-0020,Nordic Circuits Poland,standard,12,no
+PRD-070,Vega Retail Sensor 70,CMP-0042,Mechanical Housing Module 042,SUP-0059,Delta Cells Germany,SUP-0089,Bharat Materials Turkey,high,4,no
+PRD-070,Vega Retail Sensor 70,CMP-0385,Power Electronics Module 385,SUP-0004,Korea Foundry China,,,high,12,yes
+PRD-070,Vega Retail Sensor 70,CMP-0075,Connectivity Module Module 075,SUP-0144,Azura Components Vietnam,,,standard,11,yes
+PRD-070,Vega Retail Sensor 70,CMP-0029,Power Electronics Module 029,SUP-0050,Korea Foundry Taiwan,SUP-0069,Taiwan Optics Taiwan,standard,6,no
+PRD-070,Vega Retail Sensor 70,CMP-0137,Printed Circuit Board Module 137,SUP-0028,Shenzhen Assembly Mexico,SUP-0014,Vertex Components China,standard,12,no
+PRD-071,Helios Energy Controller 71,CMP-0267,Sensor Module 267,SUP-0135,Bharat MicroSystems Malaysia,SUP-0032,Mekong MicroSystems Taiwan,critical,4,no
+PRD-071,Helios Energy Controller 71,CMP-0063,Display Module Module 063,SUP-0102,Taiwan Precision South Korea,SUP-0003,Summit Materials Malaysia,critical,3,no
+PRD-071,Helios Energy Controller 71,CMP-0130,Power Electronics Module 130,SUP-0056,Vertex Circuits Mexico,SUP-0081,Vertex Electronics Germany,standard,4,no
+PRD-071,Helios Energy Controller 71,CMP-0247,Power Electronics Module 247,SUP-0002,Nova MicroSystems Vietnam,SUP-0127,Apex Cells India,standard,12,no
+PRD-071,Helios Energy Controller 71,CMP-0327,Connectivity Module Module 327,SUP-0108,Korea Components Mexico 108,SUP-0030,Bharat Cells Mexico,standard,6,no
+PRD-071,Helios Energy Controller 71,CMP-0153,Connectivity Module Module 153,SUP-0144,Azura Components Vietnam,,,critical,3,yes
+PRD-071,Helios Energy Controller 71,CMP-0102,Connectivity Module Module 102,SUP-0108,Korea Components Mexico 108,,,standard,10,yes
+PRD-071,Helios Energy Controller 71,CMP-0185,Mechanical Housing Module 185,SUP-0070,Shenzhen Components Malaysia,SUP-0013,Mekong Circuits Mexico,standard,1,no
+PRD-071,Helios Energy Controller 71,CMP-0027,Battery Module 027,SUP-0082,Taiwan Electronics Poland,SUP-0138,Apex Cells Poland,high,9,no
+PRD-072,Zenith Edge Server 72,CMP-0065,Battery Module 065,SUP-0128,Azura Components China,SUP-0094,Nova Optics Poland,critical,12,no
+PRD-072,Zenith Edge Server 72,CMP-0250,Connectivity Module Module 250,SUP-0058,Vertex Cells Poland,,,critical,7,yes
+PRD-072,Zenith Edge Server 72,CMP-0120,Printed Circuit Board Module 120,SUP-0065,Summit Assembly Poland,SUP-0045,Taiwan Circuits India,high,1,no
+PRD-072,Zenith Edge Server 72,CMP-0163,Mechanical Housing Module 163,SUP-0110,Shenzhen Electronics Vietnam,SUP-0132,Azura Foundry Turkey,standard,5,no
+PRD-072,Zenith Edge Server 72,CMP-0286,Connectivity Module Module 286,SUP-0109,Shenzhen Components Mexico,SUP-0058,Vertex Cells Poland,high,10,no
+PRD-073,Orion Smart Hub 73,CMP-0279,Semiconductor Module 279,SUP-0149,Shenzhen Circuits Turkey,SUP-0146,Taiwan Foundry India,standard,3,no
+PRD-073,Orion Smart Hub 73,CMP-0179,Battery Module 179,SUP-0017,Vertex Foundry China,SUP-0094,Nova Optics Poland,critical,5,no
+PRD-073,Orion Smart Hub 73,CMP-0166,Sensor Module 166,SUP-0135,Bharat MicroSystems Malaysia,,,standard,6,yes
+PRD-073,Orion Smart Hub 73,CMP-0375,Printed Circuit Board Module 375,SUP-0091,Mekong Cells Germany,,,standard,11,yes
+PRD-073,Orion Smart Hub 73,CMP-0240,Connectivity Module Module 240,SUP-0109,Shenzhen Components Mexico,,,standard,3,yes
+PRD-073,Orion Smart Hub 73,CMP-0141,Connectivity Module Module 141,SUP-0022,Nordic Assembly India,SUP-0098,Shenzhen Optics Poland,high,10,no
+PRD-074,Atlas Robotics Kit 74,CMP-0165,Connectivity Module Module 165,SUP-0058,Vertex Cells Poland,SUP-0108,Korea Components Mexico 108,high,9,no
+PRD-074,Atlas Robotics Kit 74,CMP-0370,Connectivity Module Module 370,SUP-0030,Bharat Cells Mexico,SUP-0098,Shenzhen Optics Poland,standard,7,no
+PRD-074,Atlas Robotics Kit 74,CMP-0033,Power Electronics Module 033,SUP-0072,Summit Circuits India,,,critical,9,yes
+PRD-074,Atlas Robotics Kit 74,CMP-0338,Power Electronics Module 338,SUP-0006,Delta Materials Vietnam,,,standard,3,yes
+PRD-074,Atlas Robotics Kit 74,CMP-0276,Connectivity Module Module 276,SUP-0030,Bharat Cells Mexico,SUP-0058,Vertex Cells Poland,standard,2,no
+PRD-074,Atlas Robotics Kit 74,CMP-0199,Mechanical Housing Module 199,SUP-0110,Shenzhen Electronics Vietnam,,,standard,1,yes
+PRD-075,Orion Smart Hub 75,CMP-0329,Power Electronics Module 329,SUP-0004,Korea Foundry China,,,critical,10,yes
+PRD-075,Orion Smart Hub 75,CMP-0199,Mechanical Housing Module 199,SUP-0019,Shenzhen Cells Vietnam,,,standard,4,yes
+PRD-075,Orion Smart Hub 75,CMP-0337,Connectivity Module Module 337,SUP-0118,Apex Assembly Turkey,SUP-0145,Bharat Cells Taiwan,standard,2,no
+PRD-075,Orion Smart Hub 75,CMP-0251,Sensor Module 251,SUP-0083,Azura Materials China,SUP-0015,Nordic MicroSystems Poland,critical,6,no
+PRD-075,Orion Smart Hub 75,CMP-0270,Mechanical Housing Module 270,SUP-0132,Azura Foundry Turkey,SUP-0086,Shenzhen Electronics Taiwan,standard,6,no
+PRD-075,Orion Smart Hub 75,CMP-0320,Semiconductor Module 320,SUP-0029,Vertex Materials Vietnam,SUP-0095,Shenzhen Assembly China,high,9,no
+PRD-075,Orion Smart Hub 75,CMP-0360,Sensor Module 360,SUP-0015,Nordic MicroSystems Poland,SUP-0135,Bharat MicroSystems Malaysia,critical,5,no
+PRD-075,Orion Smart Hub 75,CMP-0303,Power Electronics Module 303,SUP-0006,Delta Materials Vietnam,SUP-0119,Bharat Electronics Germany,critical,2,no
+PRD-075,Orion Smart Hub 75,CMP-0132,Semiconductor Module 132,SUP-0040,Vertex Materials Germany,SUP-0146,Taiwan Foundry India,high,7,no
+PRD-076,Pulse Wearable Dock 76,CMP-0099,Power Electronics Module 099,SUP-0044,Delta Precision Poland 44,SUP-0124,Korea Assembly Germany,high,7,no
+PRD-076,Pulse Wearable Dock 76,CMP-0270,Mechanical Housing Module 270,SUP-0024,Delta Materials Malaysia,SUP-0134,Mekong Cells Turkey,standard,6,no
+PRD-076,Pulse Wearable Dock 76,CMP-0337,Connectivity Module Module 337,SUP-0118,Apex Assembly Turkey,SUP-0118,Apex Assembly Turkey,standard,7,no
+PRD-076,Pulse Wearable Dock 76,CMP-0128,Printed Circuit Board Module 128,SUP-0018,Nordic Materials India,,,standard,3,yes
+PRD-076,Pulse Wearable Dock 76,CMP-0292,Semiconductor Module 292,SUP-0146,Taiwan Foundry India,SUP-0103,Apex Foundry Vietnam,high,11,no
+PRD-076,Pulse Wearable Dock 76,CMP-0321,Power Electronics Module 321,SUP-0044,Delta Precision Poland 44,SUP-0136,Apex Materials India 136,high,8,no
+PRD-077,Pulse Wearable Dock 77,CMP-0162,Printed Circuit Board Module 162,SUP-0077,Mekong Circuits Turkey,SUP-0065,Summit Assembly Poland,high,10,no
+PRD-077,Pulse Wearable Dock 77,CMP-0282,Mechanical Housing Module 282,SUP-0059,Delta Cells Germany,SUP-0036,Shenzhen Cells Turkey,standard,7,no
+PRD-077,Pulse Wearable Dock 77,CMP-0167,Display Module Module 167,SUP-0148,Azura Cells Germany,SUP-0129,Bharat Foundry China 129,standard,5,no
+PRD-077,Pulse Wearable Dock 77,CMP-0191,Battery Module 191,SUP-0082,Taiwan Electronics Poland,SUP-0094,Nova Optics Poland,critical,7,no
+PRD-077,Pulse Wearable Dock 77,CMP-0212,Sensor Module 212,SUP-0015,Nordic MicroSystems Poland,SUP-0055,Vertex Components South Korea,high,10,no
+PRD-077,Pulse Wearable Dock 77,CMP-0392,Battery Module 392,SUP-0005,Korea Electronics Mexico,SUP-0068,Taiwan Components Taiwan,critical,1,no
+PRD-077,Pulse Wearable Dock 77,CMP-0325,Connectivity Module Module 325,SUP-0088,Nova Precision Poland,SUP-0058,Vertex Cells Poland,critical,6,no
+PRD-078,Vega Retail Sensor 78,CMP-0396,Power Electronics Module 396,SUP-0124,Korea Assembly Germany,SUP-0127,Apex Cells India,critical,3,no
+PRD-078,Vega Retail Sensor 78,CMP-0354,Printed Circuit Board Module 354,SUP-0018,Nordic Materials India,,,standard,6,yes
+PRD-078,Vega Retail Sensor 78,CMP-0142,Sensor Module 142,SUP-0042,Nordic Assembly Taiwan,,,high,6,yes
+PRD-078,Vega Retail Sensor 78,CMP-0284,Mechanical Housing Module 284,SUP-0134,Mekong Cells Turkey,,,high,5,yes
+PRD-078,Vega Retail Sensor 78,CMP-0262,Semiconductor Module 262,SUP-0096,Apex Circuits Vietnam,,,standard,7,yes
+PRD-079,Nova Health Monitor 79,CMP-0112,Power Electronics Module 112,SUP-0127,Apex Cells India,SUP-0021,Mekong Materials Germany,critical,10,no
+PRD-079,Nova Health Monitor 79,CMP-0376,Semiconductor Module 376,SUP-0150,Apex MicroSystems Vietnam,,,standard,12,yes
+PRD-079,Nova Health Monitor 79,CMP-0040,Connectivity Module Module 040,SUP-0144,Azura Components Vietnam,SUP-0025,Mekong Assembly China,standard,1,no
+PRD-079,Nova Health Monitor 79,CMP-0371,Battery Module 371,SUP-0076,Vertex MicroSystems Taiwan,,,standard,7,yes
+PRD-079,Nova Health Monitor 79,CMP-0167,Display Module Module 167,SUP-0054,Korea Components Germany,SUP-0010,Nova Electronics Malaysia,standard,4,no
+PRD-079,Nova Health Monitor 79,CMP-0248,Sensor Module 248,SUP-0126,Nova MicroSystems China,SUP-0101,Summit Foundry Taiwan,critical,1,no
+PRD-079,Nova Health Monitor 79,CMP-0089,Sensor Module 089,SUP-0115,Taiwan Assembly Germany,SUP-0075,Delta Assembly Mexico,high,1,no
+PRD-079,Nova Health Monitor 79,CMP-0250,Connectivity Module Module 250,SUP-0088,Nova Precision Poland,SUP-0098,Shenzhen Optics Poland,critical,9,no
+PRD-079,Nova Health Monitor 79,CMP-0354,Printed Circuit Board Module 354,SUP-0107,Bharat Materials Malaysia,,,standard,9,yes
+PRD-080,Vega Retail Sensor 80,CMP-0079,Semiconductor Module 079,SUP-0149,Shenzhen Circuits Turkey,SUP-0033,Azura Assembly Malaysia,critical,4,no
+PRD-080,Vega Retail Sensor 80,CMP-0026,Printed Circuit Board Module 026,SUP-0077,Mekong Circuits Turkey,,,standard,7,yes
+PRD-080,Vega Retail Sensor 80,CMP-0345,Sensor Module 345,SUP-0042,Nordic Assembly Taiwan,,,critical,2,yes
+PRD-080,Vega Retail Sensor 80,CMP-0375,Printed Circuit Board Module 375,SUP-0091,Mekong Cells Germany,SUP-0014,Vertex Components China,standard,9,no
+PRD-080,Vega Retail Sensor 80,CMP-0202,Sensor Module 202,SUP-0075,Delta Assembly Mexico,,,high,7,yes
+PRD-080,Vega Retail Sensor 80,CMP-0229,Power Electronics Module 229,SUP-0119,Bharat Electronics Germany,SUP-0031,Shenzhen Assembly Malaysia,high,3,no

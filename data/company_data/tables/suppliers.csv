@@ -1,0 +1,151 @@
+supplier_id,supplier_name,country,region,port,category,risk_tier,on_time_rate,compliance_score,quality_score,capacity_utilization
+SUP-0001,Summit Foundry Vietnam,Vietnam,APAC,Cat Lai,semiconductor,High,0.753,70,71,92
+SUP-0002,Nova MicroSystems Vietnam,Vietnam,APAC,Cat Lai,power electronics,High,0.708,76,97,96
+SUP-0003,Summit Materials Malaysia,Malaysia,APAC,Port Klang,display module,Medium,0.806,90,82,58
+SUP-0004,Korea Foundry China,China,APAC,Yantian,power electronics,High,0.727,83,71,63
+SUP-0005,Korea Electronics Mexico,Mexico,North America,Manzanillo,battery,High,0.861,64,94,92
+SUP-0006,Delta Materials Vietnam,Vietnam,APAC,Cat Lai,power electronics,High,0.768,85,77,62
+SUP-0007,Shenzhen Precision Malaysia,Malaysia,APAC,Port Klang,display module,High,0.937,68,89,75
+SUP-0008,Apex Electronics Poland,Poland,Europe,Gdansk,mechanical housing,High,0.787,79,69,96
+SUP-0009,Apex Assembly China,China,APAC,Yantian,display module,Medium,0.794,97,79,78
+SUP-0010,Nova Electronics Malaysia,Malaysia,APAC,Port Klang,display module,High,0.8,66,78,94
+SUP-0011,Vertex Assembly India,India,APAC,Nhava Sheva,display module,Medium,0.799,91,74,74
+SUP-0012,Summit Materials China,China,APAC,Yantian,display module,High,0.842,99,92,95
+SUP-0013,Mekong Circuits Mexico,Mexico,North America,Manzanillo,mechanical housing,High,0.833,67,68,65
+SUP-0014,Vertex Components China,China,APAC,Yantian,printed circuit board,High,0.859,86,89,96
+SUP-0015,Nordic MicroSystems Poland,Poland,Europe,Gdansk,sensor,High,0.884,69,99,75
+SUP-0016,Shenzhen Components India,India,APAC,Nhava Sheva,battery,High,0.727,62,81,90
+SUP-0017,Vertex Foundry China,China,APAC,Yantian,battery,Low,0.933,94,77,67
+SUP-0018,Nordic Materials India,India,APAC,Nhava Sheva,printed circuit board,Medium,0.956,82,96,59
+SUP-0019,Shenzhen Cells Vietnam,Vietnam,APAC,Cat Lai,mechanical housing,High,0.697,98,70,63
+SUP-0020,Nordic Circuits Poland,Poland,Europe,Gdansk,battery,High,0.719,92,75,74
+SUP-0021,Mekong Materials Germany,Germany,Europe,Hamburg,power electronics,Medium,0.907,74,84,83
+SUP-0022,Nordic Assembly India,India,APAC,Nhava Sheva,connectivity module,High,0.716,76,69,79
+SUP-0023,Azura Cells Malaysia,Malaysia,APAC,Port Klang,display module,High,0.682,65,79,62
+SUP-0024,Delta Materials Malaysia,Malaysia,APAC,Port Klang,mechanical housing,High,0.751,93,78,92
+SUP-0025,Mekong Assembly China,China,APAC,Yantian,connectivity module,Medium,0.922,74,71,64
+SUP-0026,Taiwan Components Mexico,Mexico,North America,Manzanillo,mechanical housing,High,0.82,65,71,61
+SUP-0027,Delta Cells Mexico,Mexico,North America,Manzanillo,mechanical housing,High,0.737,96,93,66
+SUP-0028,Shenzhen Assembly Mexico,Mexico,North America,Manzanillo,printed circuit board,High,0.755,66,93,93
+SUP-0029,Vertex Materials Vietnam,Vietnam,APAC,Cat Lai,semiconductor,High,0.931,67,80,68
+SUP-0030,Bharat Cells Mexico,Mexico,North America,Manzanillo,connectivity module,High,0.939,65,75,82
+SUP-0031,Shenzhen Assembly Malaysia,Malaysia,APAC,Port Klang,power electronics,High,0.766,97,96,67
+SUP-0032,Mekong MicroSystems Taiwan,Taiwan,APAC,Kaohsiung,sensor,Medium,0.854,96,68,78
+SUP-0033,Azura Assembly Malaysia,Malaysia,APAC,Port Klang,semiconductor,Medium,0.831,95,75,61
+SUP-0034,Apex Precision Germany,Germany,Europe,Hamburg,battery,Medium,0.859,77,90,65
+SUP-0035,Azura Optics Turkey,Turkey,EMEA,Mersin,display module,High,0.692,67,91,95
+SUP-0036,Shenzhen Cells Turkey,Turkey,EMEA,Mersin,mechanical housing,Medium,0.881,82,80,74
+SUP-0037,Vertex Foundry Mexico,Mexico,North America,Manzanillo,printed circuit board,High,0.817,66,65,87
+SUP-0038,Delta Materials Turkey,Turkey,EMEA,Mersin,battery,High,0.744,78,73,80
+SUP-0039,Korea Foundry Vietnam,Vietnam,APAC,Cat Lai,display module,High,0.727,96,84,97
+SUP-0040,Vertex Materials Germany,Germany,Europe,Hamburg,semiconductor,High,0.77,68,73,74
+SUP-0041,Summit Materials Vietnam,Vietnam,APAC,Cat Lai,battery,High,0.727,80,78,79
+SUP-0042,Nordic Assembly Taiwan,Taiwan,APAC,Kaohsiung,sensor,High,0.755,65,70,98
+SUP-0043,Nova MicroSystems Mexico,Mexico,North America,Manzanillo,sensor,High,0.78,70,81,68
+SUP-0044,Delta Precision Poland 44,Poland,Europe,Gdansk,power electronics,High,0.964,71,99,60
+SUP-0045,Taiwan Circuits India,India,APAC,Nhava Sheva,printed circuit board,High,0.693,85,67,80
+SUP-0046,Vertex Precision Taiwan,Taiwan,APAC,Kaohsiung,display module,High,0.786,97,91,97
+SUP-0047,Apex Circuits China,China,APAC,Yantian,display module,High,0.944,63,76,79
+SUP-0048,Shenzhen Circuits Mexico,Mexico,North America,Manzanillo,display module,High,0.916,68,89,60
+SUP-0049,Mekong Assembly Poland,Poland,Europe,Gdansk,display module,Medium,0.785,76,79,59
+SUP-0050,Korea Foundry Taiwan,Taiwan,APAC,Kaohsiung,power electronics,High,0.939,79,87,99
+SUP-0051,Korea MicroSystems Germany 51,Germany,Europe,Hamburg,power electronics,High,0.715,78,76,95
+SUP-0052,Delta Optics South Korea,South Korea,APAC,Busan,semiconductor,High,0.81,82,92,96
+SUP-0053,Taiwan Optics Germany,Germany,Europe,Hamburg,battery,High,0.737,64,92,58
+SUP-0054,Korea Components Germany,Germany,Europe,Hamburg,display module,High,0.701,83,85,65
+SUP-0055,Vertex Components South Korea,South Korea,APAC,Busan,sensor,High,0.778,80,73,70
+SUP-0056,Vertex Circuits Mexico,Mexico,North America,Manzanillo,power electronics,High,0.865,81,90,93
+SUP-0057,Shenzhen Cells Malaysia,Malaysia,APAC,Port Klang,sensor,Medium,0.809,99,85,87
+SUP-0058,Vertex Cells Poland,Poland,Europe,Gdansk,connectivity module,Medium,0.833,72,70,76
+SUP-0059,Delta Cells Germany,Germany,Europe,Hamburg,mechanical housing,Medium,0.882,76,77,67
+SUP-0060,Mekong Assembly Malaysia,Malaysia,APAC,Port Klang,semiconductor,High,0.863,66,94,84
+SUP-0061,Summit Components Turkey,Turkey,EMEA,Mersin,display module,High,0.828,77,74,99
+SUP-0062,Taiwan Cells Malaysia,Malaysia,APAC,Port Klang,battery,High,0.733,95,94,61
+SUP-0063,Delta Assembly Germany,Germany,Europe,Hamburg,display module,High,0.72,91,98,93
+SUP-0064,Bharat Optics Turkey,Turkey,EMEA,Mersin,mechanical housing,High,0.925,94,92,93
+SUP-0065,Summit Assembly Poland,Poland,Europe,Gdansk,printed circuit board,Medium,0.815,77,82,91
+SUP-0066,Shenzhen Assembly Poland,Poland,Europe,Gdansk,display module,High,0.703,80,80,75
+SUP-0067,Nordic Precision India,India,APAC,Nhava Sheva,mechanical housing,High,0.722,76,89,67
+SUP-0068,Taiwan Components Taiwan,Taiwan,APAC,Kaohsiung,battery,High,0.779,91,91,61
+SUP-0069,Taiwan Optics Taiwan,Taiwan,APAC,Kaohsiung,power electronics,High,0.964,63,89,88
+SUP-0070,Shenzhen Components Malaysia,Malaysia,APAC,Port Klang,mechanical housing,Low,0.936,88,99,92
+SUP-0071,Bharat Cells Turkey,Turkey,EMEA,Mersin,display module,High,0.762,93,66,82
+SUP-0072,Summit Circuits India,India,APAC,Nhava Sheva,power electronics,High,0.932,70,99,59
+SUP-0073,Delta Components Mexico,Mexico,North America,Manzanillo,semiconductor,High,0.721,91,76,61
+SUP-0074,Korea Cells South Korea,South Korea,APAC,Busan,power electronics,Medium,0.816,83,89,75
+SUP-0075,Delta Assembly Mexico,Mexico,North America,Manzanillo,sensor,High,0.686,96,68,80
+SUP-0076,Vertex MicroSystems Taiwan,Taiwan,APAC,Kaohsiung,battery,Medium,0.906,77,77,59
+SUP-0077,Mekong Circuits Turkey,Turkey,EMEA,Mersin,printed circuit board,High,0.822,69,78,87
+SUP-0078,Apex Optics South Korea,South Korea,APAC,Busan,mechanical housing,High,0.862,69,75,77
+SUP-0079,Shenzhen Optics Vietnam,Vietnam,APAC,Cat Lai,semiconductor,Low,0.883,86,90,70
+SUP-0080,Delta Foundry Vietnam,Vietnam,APAC,Cat Lai,display module,High,0.935,69,67,80
+SUP-0081,Vertex Electronics Germany,Germany,Europe,Hamburg,power electronics,High,0.701,83,65,84
+SUP-0082,Taiwan Electronics Poland,Poland,Europe,Gdansk,battery,Medium,0.871,91,74,85
+SUP-0083,Azura Materials China,China,APAC,Yantian,sensor,High,0.912,91,92,95
+SUP-0084,Mekong Precision South Korea,South Korea,APAC,Busan,mechanical housing,High,0.764,90,80,87
+SUP-0085,Korea MicroSystems Turkey,Turkey,EMEA,Mersin,power electronics,Medium,0.828,82,76,89
+SUP-0086,Shenzhen Electronics Taiwan,Taiwan,APAC,Kaohsiung,mechanical housing,High,0.764,79,65,91
+SUP-0087,Mekong Components Taiwan,Taiwan,APAC,Kaohsiung,battery,High,0.827,77,95,99
+SUP-0088,Nova Precision Poland,Poland,Europe,Gdansk,connectivity module,High,0.768,87,80,77
+SUP-0089,Bharat Materials Turkey,Turkey,EMEA,Mersin,mechanical housing,Medium,0.839,89,86,80
+SUP-0090,Shenzhen Foundry Poland,Poland,Europe,Gdansk,sensor,High,0.749,74,85,65
+SUP-0091,Mekong Cells Germany,Germany,Europe,Hamburg,printed circuit board,High,0.902,79,98,96
+SUP-0092,Mekong Foundry South Korea,South Korea,APAC,Busan,battery,High,0.748,73,84,58
+SUP-0093,Shenzhen MicroSystems Germany,Germany,Europe,Hamburg,printed circuit board,Low,0.972,97,83,66
+SUP-0094,Nova Optics Poland,Poland,Europe,Gdansk,battery,High,0.765,92,93,79
+SUP-0095,Shenzhen Assembly China,China,APAC,Yantian,semiconductor,High,0.714,66,90,89
+SUP-0096,Apex Circuits Vietnam,Vietnam,APAC,Cat Lai,semiconductor,Medium,0.923,81,70,73
+SUP-0097,Azura Optics Vietnam,Vietnam,APAC,Cat Lai,power electronics,Medium,0.917,76,98,82
+SUP-0098,Shenzhen Optics Poland,Poland,Europe,Gdansk,connectivity module,High,0.977,81,68,97
+SUP-0099,Vertex Cells Vietnam,Vietnam,APAC,Cat Lai,display module,High,0.759,67,75,73
+SUP-0100,Apex MicroSystems China,China,APAC,Yantian,battery,Medium,0.803,92,83,60
+SUP-0101,Summit Foundry Taiwan,Taiwan,APAC,Kaohsiung,sensor,Low,0.891,91,69,72
+SUP-0102,Taiwan Precision South Korea,South Korea,APAC,Busan,display module,High,0.843,71,82,67
+SUP-0103,Apex Foundry Vietnam,Vietnam,APAC,Cat Lai,semiconductor,Medium,0.859,98,83,86
+SUP-0104,Summit Components Vietnam 104,Vietnam,APAC,Cat Lai,connectivity module,Low,0.963,94,99,89
+SUP-0105,Azura MicroSystems Poland,Poland,Europe,Gdansk,battery,Medium,0.947,82,81,59
+SUP-0106,Vertex Optics Vietnam,Vietnam,APAC,Cat Lai,display module,High,0.856,63,82,94
+SUP-0107,Bharat Materials Malaysia,Malaysia,APAC,Port Klang,printed circuit board,High,0.875,79,76,95
+SUP-0108,Korea Components Mexico 108,Mexico,North America,Manzanillo,connectivity module,High,0.78,68,75,79
+SUP-0109,Shenzhen Components Mexico,Mexico,North America,Manzanillo,connectivity module,Low,0.924,97,67,87
+SUP-0110,Shenzhen Electronics Vietnam,Vietnam,APAC,Cat Lai,mechanical housing,High,0.715,87,97,58
+SUP-0111,Taiwan MicroSystems Germany,Germany,Europe,Hamburg,connectivity module,High,0.736,85,96,98
+SUP-0112,Mekong Foundry Poland,Poland,Europe,Gdansk,semiconductor,Medium,0.845,80,93,89
+SUP-0113,Mekong Circuits Vietnam 113,Vietnam,APAC,Cat Lai,semiconductor,High,0.773,62,91,63
+SUP-0114,Bharat Precision Taiwan,Taiwan,APAC,Kaohsiung,battery,High,0.874,71,96,76
+SUP-0115,Taiwan Assembly Germany,Germany,Europe,Hamburg,sensor,High,0.974,77,94,93
+SUP-0116,Mekong Optics China,China,APAC,Yantian,power electronics,High,0.832,70,69,75
+SUP-0117,Nordic Foundry Mexico,Mexico,North America,Manzanillo,mechanical housing,High,0.926,80,84,95
+SUP-0118,Apex Assembly Turkey,Turkey,EMEA,Mersin,connectivity module,High,0.842,84,86,93
+SUP-0119,Bharat Electronics Germany,Germany,Europe,Hamburg,power electronics,Medium,0.941,77,89,72
+SUP-0120,Korea Assembly Mexico,Mexico,North America,Manzanillo,semiconductor,High,0.892,86,89,99
+SUP-0121,Nova Circuits China,China,APAC,Yantian,connectivity module,Medium,0.831,99,86,64
+SUP-0122,Nordic Assembly Poland,Poland,Europe,Gdansk,battery,High,0.685,71,91,99
+SUP-0123,Bharat Foundry China,China,APAC,Yantian,battery,Medium,0.782,87,70,79
+SUP-0124,Korea Assembly Germany,Germany,Europe,Hamburg,power electronics,High,0.942,64,69,73
+SUP-0125,Summit Precision South Korea,South Korea,APAC,Busan,display module,High,0.81,68,71,86
+SUP-0126,Nova MicroSystems China,China,APAC,Yantian,sensor,High,0.777,65,83,80
+SUP-0127,Apex Cells India,India,APAC,Nhava Sheva,power electronics,Medium,0.839,98,76,68
+SUP-0128,Azura Components China,China,APAC,Yantian,battery,High,0.866,77,96,95
+SUP-0129,Bharat Foundry China 129,China,APAC,Yantian,display module,Low,0.88,91,83,92
+SUP-0130,Bharat Electronics China,China,APAC,Yantian,battery,Medium,0.976,81,92,74
+SUP-0131,Mekong Components Poland,Poland,Europe,Gdansk,sensor,High,0.936,68,80,82
+SUP-0132,Azura Foundry Turkey,Turkey,EMEA,Mersin,mechanical housing,Medium,0.978,80,66,83
+SUP-0133,Azura MicroSystems South Korea,South Korea,APAC,Busan,semiconductor,Low,0.953,93,83,72
+SUP-0134,Mekong Cells Turkey,Turkey,EMEA,Mersin,mechanical housing,High,0.866,70,71,98
+SUP-0135,Bharat MicroSystems Malaysia,Malaysia,APAC,Port Klang,sensor,High,0.854,70,70,76
+SUP-0136,Apex Materials India 136,India,APAC,Nhava Sheva,power electronics,Low,0.943,85,98,90
+SUP-0137,Shenzhen Assembly South Korea,South Korea,APAC,Busan,printed circuit board,Medium,0.97,80,86,65
+SUP-0138,Apex Cells Poland,Poland,Europe,Gdansk,battery,Low,0.938,87,88,63
+SUP-0139,Shenzhen Materials Mexico,Mexico,North America,Manzanillo,semiconductor,High,0.717,85,81,95
+SUP-0140,Bharat MicroSystems Mexico 140,Mexico,North America,Manzanillo,mechanical housing,High,0.866,97,85,97
+SUP-0141,Vertex Assembly Taiwan,Taiwan,APAC,Kaohsiung,battery,Medium,0.953,81,91,65
+SUP-0142,Nova Foundry China,China,APAC,Yantian,semiconductor,High,0.979,69,71,73
+SUP-0143,Korea Materials Germany 143,Germany,Europe,Hamburg,printed circuit board,High,0.806,71,91,99
+SUP-0144,Azura Components Vietnam,Vietnam,APAC,Cat Lai,connectivity module,Medium,0.962,79,67,81
+SUP-0145,Bharat Cells Taiwan,Taiwan,APAC,Kaohsiung,connectivity module,High,0.937,68,88,92
+SUP-0146,Taiwan Foundry India,India,APAC,Nhava Sheva,semiconductor,High,0.737,69,94,63
+SUP-0147,Nova Electronics Taiwan,Taiwan,APAC,Kaohsiung,semiconductor,High,0.753,70,78,62
+SUP-0148,Azura Cells Germany,Germany,Europe,Hamburg,display module,Medium,0.924,76,86,67
+SUP-0149,Shenzhen Circuits Turkey,Turkey,EMEA,Mersin,semiconductor,Low,0.976,96,81,69
+SUP-0150,Apex MicroSystems Vietnam,Vietnam,APAC,Cat Lai,semiconductor,Medium,0.787,77,85,59

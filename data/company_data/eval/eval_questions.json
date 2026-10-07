@@ -1,0 +1,999 @@
+[
+  {
+    "question_id": "EVAL-001",
+    "question": "Which products are exposed to Connectivity Module Module 337 delays from Apex Assembly Turkey?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Apex Assembly Turkey",
+      "Connectivity Module Module 337",
+      "Aster Industrial Gateway 10",
+      "Orion Smart Hub 75",
+      "Pulse Wearable Dock 76"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-002",
+    "question": "Which products are exposed to Connectivity Module Module 138 delays from Apex Assembly Turkey?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Apex Assembly Turkey",
+      "Connectivity Module Module 138",
+      "Pulse Wearable Dock 60"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-003",
+    "question": "Which products are exposed to Power Electronics Module 154 delays from Nova MicroSystems Vietnam?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Nova MicroSystems Vietnam",
+      "Power Electronics Module 154",
+      "Zenith Edge Server 07"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-004",
+    "question": "Which products are exposed to Connectivity Module Module 040 delays from Bharat Cells Mexico?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Bharat Cells Mexico",
+      "Connectivity Module Module 040",
+      "Atlas Robotics Kit 51",
+      "Nova Health Monitor 79"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-005",
+    "question": "Which products are exposed to Connectivity Module Module 055 delays from Nova Precision Poland?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Nova Precision Poland",
+      "Connectivity Module Module 055",
+      "Aster Industrial Gateway 19",
+      "Vega Retail Sensor 45",
+      "Zenith Edge Server 06"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-006",
+    "question": "Which products are exposed to Sensor Module 246 delays from Taiwan Assembly Germany?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Taiwan Assembly Germany",
+      "Sensor Module 246",
+      "Aster Industrial Gateway 14",
+      "Orion Smart Hub 09",
+      "Vega Retail Sensor 16"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-007",
+    "question": "Which products are exposed to Power Electronics Module 051 delays from Bharat Electronics Germany?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Bharat Electronics Germany",
+      "Power Electronics Module 051",
+      "Orion Smart Hub 55",
+      "Zenith Edge Server 20"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-008",
+    "question": "Which products are exposed to Printed Circuit Board Module 266 delays from Taiwan Circuits India?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Taiwan Circuits India",
+      "Printed Circuit Board Module 266",
+      "Nova Health Monitor 33",
+      "Orion Smart Hub 62",
+      "Pulse Wearable Dock 50"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-009",
+    "question": "Which products are exposed to Mechanical Housing Module 363 delays from Shenzhen Electronics Vietnam?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Shenzhen Electronics Vietnam",
+      "Mechanical Housing Module 363",
+      "Aster Industrial Gateway 12",
+      "Orion Smart Hub 13"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-010",
+    "question": "Which products are exposed to Semiconductor Module 190 delays from Delta Components Mexico?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Delta Components Mexico",
+      "Semiconductor Module 190",
+      "Zenith Edge Server 56"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-011",
+    "question": "Which products are exposed to Printed Circuit Board Module 162 delays from Shenzhen Assembly Mexico?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Shenzhen Assembly Mexico",
+      "Printed Circuit Board Module 162",
+      "Pulse Wearable Dock 26",
+      "Pulse Wearable Dock 77"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-012",
+    "question": "Which products are exposed to Connectivity Module Module 245 delays from Vertex Cells Poland?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Vertex Cells Poland",
+      "Connectivity Module Module 245",
+      "Aster Industrial Gateway 27",
+      "Orion Smart Hub 55"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-013",
+    "question": "Which products are exposed to Mechanical Housing Module 363 delays from Nordic Precision India?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Nordic Precision India",
+      "Mechanical Housing Module 363",
+      "Aster Industrial Gateway 12",
+      "Orion Smart Hub 13"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-014",
+    "question": "Which products are exposed to Semiconductor Module 262 delays from Delta Optics South Korea?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Delta Optics South Korea",
+      "Semiconductor Module 262",
+      "Helios Energy Controller 53",
+      "Vega Retail Sensor 78"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-015",
+    "question": "Which products are exposed to Mechanical Housing Module 010 delays from Apex Electronics Poland?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Apex Electronics Poland",
+      "Mechanical Housing Module 010",
+      "Vega Retail Sensor 28"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-016",
+    "question": "Which products are exposed to Battery Module 021 delays from Vertex Foundry China?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Vertex Foundry China",
+      "Battery Module 021",
+      "Helios Energy Controller 41",
+      "Vega Retail Sensor 30"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-017",
+    "question": "Which products are exposed to Connectivity Module Module 080 delays from Shenzhen Optics Poland?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Shenzhen Optics Poland",
+      "Connectivity Module Module 080",
+      "Helios Energy Controller 41",
+      "Zenith Edge Server 66"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-018",
+    "question": "Which products are exposed to Battery Module 380 delays from Delta Materials Turkey?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Delta Materials Turkey",
+      "Battery Module 380",
+      "Aster Industrial Gateway 46",
+      "Pulse Wearable Dock 01",
+      "Zenith Edge Server 03"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-019",
+    "question": "Which products are exposed to Semiconductor Module 312 delays from Delta Components Mexico?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Delta Components Mexico",
+      "Semiconductor Module 312",
+      "Helios Energy Controller 23",
+      "Pulse Wearable Dock 01"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-020",
+    "question": "Which products are exposed to Sensor Module 085 delays from Taiwan Assembly Germany?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Taiwan Assembly Germany",
+      "Sensor Module 085",
+      "Atlas Robotics Kit 51",
+      "Vega Retail Sensor 28",
+      "Zenith Edge Server 06"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-021",
+    "question": "Which products are exposed to Connectivity Module Module 384 delays from Apex Assembly Turkey?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Apex Assembly Turkey",
+      "Connectivity Module Module 384",
+      "Aster Industrial Gateway 46"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-022",
+    "question": "Which products are exposed to Printed Circuit Board Module 128 delays from Korea Materials Germany 143?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Korea Materials Germany 143",
+      "Printed Circuit Board Module 128",
+      "Atlas Robotics Kit 21",
+      "Nova Health Monitor 68",
+      "Pulse Wearable Dock 76"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-023",
+    "question": "Which products are exposed to Battery Module 380 delays from Delta Materials Turkey?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Delta Materials Turkey",
+      "Battery Module 380",
+      "Aster Industrial Gateway 46",
+      "Pulse Wearable Dock 01",
+      "Zenith Edge Server 03"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-024",
+    "question": "Which products are exposed to Connectivity Module Module 178 delays from Shenzhen Components Mexico?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Shenzhen Components Mexico",
+      "Connectivity Module Module 178",
+      "Atlas Robotics Kit 04",
+      "Orion Smart Hub 13",
+      "Orion Smart Hub 62"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-025",
+    "question": "Which products are exposed to Printed Circuit Board Module 266 delays from Mekong Circuits Turkey?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Mekong Circuits Turkey",
+      "Printed Circuit Board Module 266",
+      "Nova Health Monitor 33",
+      "Orion Smart Hub 62",
+      "Pulse Wearable Dock 50"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-026",
+    "question": "Which products are exposed to Connectivity Module Module 178 delays from Nordic Assembly India?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Nordic Assembly India",
+      "Connectivity Module Module 178",
+      "Atlas Robotics Kit 04",
+      "Orion Smart Hub 13",
+      "Orion Smart Hub 62"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-027",
+    "question": "Which products are exposed to Display Module Module 317 delays from Azura Optics Turkey?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Azura Optics Turkey",
+      "Display Module Module 317",
+      "Atlas Robotics Kit 69",
+      "Zenith Edge Server 66"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-028",
+    "question": "Which products are exposed to Sensor Module 089 delays from Taiwan Assembly Germany?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Taiwan Assembly Germany",
+      "Sensor Module 089",
+      "Atlas Robotics Kit 21",
+      "Nova Health Monitor 79",
+      "Orion Smart Hub 37"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-029",
+    "question": "Which products are exposed to Display Module Module 252 delays from Apex Circuits China?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Apex Circuits China",
+      "Display Module Module 252",
+      "Helios Energy Controller 11",
+      "Zenith Edge Server 20"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-030",
+    "question": "Which products are exposed to Semiconductor Module 158 delays from Korea Assembly Mexico?",
+    "strategy_type": "multi_hop",
+    "expected_entities": [
+      "Korea Assembly Mexico",
+      "Semiconductor Module 158",
+      "Pulse Wearable Dock 25",
+      "Zenith Edge Server 56"
+    ],
+    "ideal_answer_points": [
+      "identify delayed supplier",
+      "identify affected component",
+      "map component to products",
+      "mention delay evidence"
+    ]
+  },
+  {
+    "question_id": "EVAL-031",
+    "question": "What risks should procurement monitor for Summit Foundry Vietnam?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Summit Foundry Vietnam",
+      "Vietnam",
+      "semiconductor"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-032",
+    "question": "What risks should procurement monitor for Nova MicroSystems Vietnam?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Nova MicroSystems Vietnam",
+      "Vietnam",
+      "power electronics"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-033",
+    "question": "What risks should procurement monitor for Korea Foundry China?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Korea Foundry China",
+      "China",
+      "power electronics"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-034",
+    "question": "What risks should procurement monitor for Korea Electronics Mexico?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Korea Electronics Mexico",
+      "Mexico",
+      "battery"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-035",
+    "question": "What risks should procurement monitor for Delta Materials Vietnam?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Delta Materials Vietnam",
+      "Vietnam",
+      "power electronics"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-036",
+    "question": "What risks should procurement monitor for Shenzhen Precision Malaysia?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Shenzhen Precision Malaysia",
+      "Malaysia",
+      "display module"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-037",
+    "question": "What risks should procurement monitor for Apex Electronics Poland?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Apex Electronics Poland",
+      "Poland",
+      "mechanical housing"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-038",
+    "question": "What risks should procurement monitor for Nova Electronics Malaysia?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Nova Electronics Malaysia",
+      "Malaysia",
+      "display module"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-039",
+    "question": "What risks should procurement monitor for Summit Materials China?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Summit Materials China",
+      "China",
+      "display module"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-040",
+    "question": "What risks should procurement monitor for Mekong Circuits Mexico?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Mekong Circuits Mexico",
+      "Mexico",
+      "mechanical housing"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-041",
+    "question": "What risks should procurement monitor for Vertex Components China?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Vertex Components China",
+      "China",
+      "printed circuit board"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-042",
+    "question": "What risks should procurement monitor for Nordic MicroSystems Poland?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Nordic MicroSystems Poland",
+      "Poland",
+      "sensor"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-043",
+    "question": "What risks should procurement monitor for Shenzhen Components India?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Shenzhen Components India",
+      "India",
+      "battery"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-044",
+    "question": "What risks should procurement monitor for Shenzhen Cells Vietnam?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Shenzhen Cells Vietnam",
+      "Vietnam",
+      "mechanical housing"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-045",
+    "question": "What risks should procurement monitor for Nordic Circuits Poland?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Nordic Circuits Poland",
+      "Poland",
+      "battery"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-046",
+    "question": "What risks should procurement monitor for Nordic Assembly India?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Nordic Assembly India",
+      "India",
+      "connectivity module"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-047",
+    "question": "What risks should procurement monitor for Azura Cells Malaysia?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Azura Cells Malaysia",
+      "Malaysia",
+      "display module"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-048",
+    "question": "What risks should procurement monitor for Delta Materials Malaysia?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Delta Materials Malaysia",
+      "Malaysia",
+      "mechanical housing"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-049",
+    "question": "What risks should procurement monitor for Taiwan Components Mexico?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Taiwan Components Mexico",
+      "Mexico",
+      "mechanical housing"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-050",
+    "question": "What risks should procurement monitor for Delta Cells Mexico?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Delta Cells Mexico",
+      "Mexico",
+      "mechanical housing"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-051",
+    "question": "What risks should procurement monitor for Shenzhen Assembly Mexico?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Shenzhen Assembly Mexico",
+      "Mexico",
+      "printed circuit board"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-052",
+    "question": "What risks should procurement monitor for Vertex Materials Vietnam?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Vertex Materials Vietnam",
+      "Vietnam",
+      "semiconductor"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-053",
+    "question": "What risks should procurement monitor for Bharat Cells Mexico?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Bharat Cells Mexico",
+      "Mexico",
+      "connectivity module"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-054",
+    "question": "What risks should procurement monitor for Shenzhen Assembly Malaysia?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Shenzhen Assembly Malaysia",
+      "Malaysia",
+      "power electronics"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-055",
+    "question": "What risks should procurement monitor for Azura Optics Turkey?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Azura Optics Turkey",
+      "Turkey",
+      "display module"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-056",
+    "question": "What risks should procurement monitor for Vertex Foundry Mexico?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Vertex Foundry Mexico",
+      "Mexico",
+      "printed circuit board"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-057",
+    "question": "What risks should procurement monitor for Delta Materials Turkey?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Delta Materials Turkey",
+      "Turkey",
+      "battery"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-058",
+    "question": "What risks should procurement monitor for Korea Foundry Vietnam?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Korea Foundry Vietnam",
+      "Vietnam",
+      "display module"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-059",
+    "question": "What risks should procurement monitor for Vertex Materials Germany?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Vertex Materials Germany",
+      "Germany",
+      "semiconductor"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  },
+  {
+    "question_id": "EVAL-060",
+    "question": "What risks should procurement monitor for Summit Materials Vietnam?",
+    "strategy_type": "hybrid_rerank",
+    "expected_entities": [
+      "Summit Materials Vietnam",
+      "Vietnam",
+      "battery"
+    ],
+    "ideal_answer_points": [
+      "supplier risk tier",
+      "country or port exposure",
+      "delivery or compliance signal",
+      "recommended mitigation"
+    ]
+  }
+]

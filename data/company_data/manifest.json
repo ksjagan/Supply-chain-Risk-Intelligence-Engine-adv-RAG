@@ -1,0 +1,11 @@
+{
+  "suppliers": 150,
+  "components": 400,
+  "products": 80,
+  "bom_rows": 567,
+  "shipments": 2500,
+  "purchase_orders": 1500,
+  "scorecard_rows": 1200,
+  "documents": 540,
+  "eval_questions": 60
+}
